@@ -7,6 +7,12 @@ title: Harrison Jenkins
 
 ## Harrison Jenkins
 
+<p align="center">
+  <img src="assets/images/Headshot.jpg"
+       width="250"
+       style="border-radius: 50%;">
+</p>
+
 ### Mission
 **Reflect the love of Christ by advancing robotic technology that will combat socio-economic disparities, chiefly: energy poverty.** Critical to this mission is a two-stage approach: 
 
