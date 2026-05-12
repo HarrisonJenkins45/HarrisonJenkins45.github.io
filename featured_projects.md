@@ -3,4 +3,4 @@
 layout: default
 title: Projects
 ---
-[Home](/index) |[Projects](/featured_projects) | [Research](/research) | [Mentorship](/mentorship)
+[Home](/index) |[Projects](/) | [Research](/research) | [Mentorship](/mentorship)
