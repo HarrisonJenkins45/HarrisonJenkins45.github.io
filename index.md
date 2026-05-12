@@ -19,7 +19,7 @@ title: Harrison Jenkins
 - In-space Assembly and Manufacturing (ISAM)
 - Space-Based Solar Power
 
-### Featured Project
+### Featured Projects
 - A Deep Semantic Segmentation Network for Mars Rover Traversibility
 - Spacecraft Position Estimation in LEO using Terrain Relative Kalman Filtering
 - Interactive Orbital Mechanics Simulator
