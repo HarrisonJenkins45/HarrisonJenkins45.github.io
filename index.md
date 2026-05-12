@@ -15,8 +15,6 @@ description: PhD Student in Robotics and Aerospace Engineering at Georgia Tech's
        margin-bottom: 20px;
      ">
 
-## Harrison Jenkins
-
 ### Mission
 
 **Reflect the love of Christ by advancing robotic technology that will combat socio-economic disparities, chiefly: energy poverty.** Critical to this mission is a three-pronged approach:
