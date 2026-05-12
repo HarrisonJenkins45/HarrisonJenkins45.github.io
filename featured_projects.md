@@ -7,7 +7,7 @@ description: Selection of relevant research projects and coursework
 ---
 <h3>
 Spacecraft Position Estimation in LEO using Terrain Relative Kalman Filtering
-<span style="font-size: 0.3em; font-weight: normal;">
+<span style="font-size: 0.6em; font-weight: normal;">
   <a href="/assets/pdfs/AE_6505_Final_Project_Manuscript.pdf">
     [View Manuscript]
   </a>
