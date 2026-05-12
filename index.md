@@ -7,51 +7,26 @@ title: Harrison Jenkins
 
 ---
 
-<table>
-<tr>
-
-<td width="70%" valign="top">
-
-<h2>Harrison Jenkins</h2>
-
-<h3>Mission</h3>
-
-<p>
-<strong>Reflect the love of Christ by advancing robotic technology that will combat socio-economic disparities, chiefly: energy poverty.</strong>
-</p>
-
-<p>
-Critical to this mission is a two-stage approach:
-</p>
-
-<ol>
-<li>
-Use my work in Georgia Tech's
-<a href="https://dcsl.gatech.edu/">DCSL</a>
-to advance the state of the art in
-<strong>large scale robotic assembly in space</strong>
-to enable Space-Based solar power to provide greater energy access globally.
-</li>
-
-<li>
-Provide <strong>personal technical mentorship</strong>
-to young engineers in my community to nurture a new wave of impact-driven leaders.
-</li>
-</ol>
-
-</td>
-
-<td width="30%" valign="top" align="center">
-
 <img src="/assets/images/Headshot.jpg"
-     width="220"
-     style="border-radius: 50%;">
+     width="240"
+     style="
+       float: right;
+       margin-left: 30px;
+       margin-bottom: 20px;
+       border-radius: 50%;
+     ">
 
-</td>
+## Harrison Jenkins
 
-</tr>
-</table>
+### Mission
 
+**Reflect the love of Christ by advancing robotic technology that will combat socio-economic disparities, chiefly: energy poverty.**
+
+Critical to this mission is a two-stage approach:
+
+1. Use my work in Georgia Tech's <a href="https://dcsl.gatech.edu/">DCSL</a> to advance the state of the art in **large scale robotic assembly in space** to enable Space-Based solar power to provide greater energy access globally.
+
+2. Provide **personal technical mentorship** to young engineers in my community to nurture a new wave of impact-driven leaders.
 ### Areas of Interest
 - Spacecraft-mounted robotics
 - In-space Assembly and Manufacturing (ISAM)
