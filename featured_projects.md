@@ -15,7 +15,7 @@ Spacecraft Position Estimation with Terrain Relative Kalman Filtering
 </h3>
 
 
-Accurate, vision-based, Kalman Filtering framework for spacecraft position estimation in GNSS-denied orbit scenarios.
+An accurate, vision-based, Kalman Filtering framework for spacecraft position estimation in GNSS-denied orbit scenarios.
 
 <p align="center">
   <img src="/assets/images/(70km; 100m_s) 3D error.png" width="600">
@@ -59,6 +59,50 @@ We achieve a 90% reduction in initial position error over the duration of the 7-
 See the project repository's [README](https://github.com/HarrisonJenkins45/Terrain-Relative-Spacecraft-Position-Estimation) for setup instructions.
 
 ## A Deep Semantic Segmentation Network for Mars Rover Traversibility
+
+Accurate, vision-based, Kalman Filtering framework for spacecraft position estimation in GNSS-denied orbit scenarios.
+
+<p align="center">
+  <img src="/assets/images/(70km; 100m_s) 3D error.png" width="600">
+</p>
+
+
+**Problem:**
+
+**Approach:**
+
+**Results:**
+
+<div style="
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+">
+
+<img src="/assets/images/(15km; 1m_s) x error.png"
+     width="300">
+
+<img src="/assets/images/(15km; 1m_s) y error.png"
+     width="300">
+
+<img src="/assets/images/(15km; 1m_s) z error.png"
+     width="300">
+
+</div>
+
+
+**Technical details:**
+
+
+**Link:**
+See the project repository [here](https://github.gatech.edu/nfischer30/CS7641-Group-6-Proposal.git) for code and more details.
+
+
+
+
+
+
 
 ## Interactive Orbital Mechanics Simulator
 
