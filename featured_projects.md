@@ -14,7 +14,7 @@ Provides an effective Kalman Filtering framework for spacecraft position estimat
 
 
 Problem statement:
-Accurate knowledge of a spacecraft's position is critical for mission success; however, there are a number of circumstances that may cause GNSS (Global Navigation Satellite System) services to be unavailable, potentially for extended periods of time. In these instances, the ability to leverage vision-based estimation can be a critical to the succesful execution of the spacecraft's mission.
+Accurate knowledge of a spacecraft's position is critical for mission success; however, there are a number of circumstances that may cause GNSS (Global Navigation Satellite System) services to be unavailable, potentially for extended periods of time. In these instances, the ability to leverage vision-based estimation can be critical to the successful execution of the spacecraft's mission.
 
 Our approach: 
 This work uses Extended and Unscented Kalman Filters to achieve sub-kilometer position estimates for a spacecraft in LEO, based solely on visual inspection of a known lake. 
@@ -25,7 +25,7 @@ Results
 </p>
 
 <p align="center">
-  <img src="/assets/images/(70km; 100m_s) y cov" width="600">
+  <img src="/assets/images/(70km; 100m_s) y cov.png" width="600">
 </p>
 
 Technical details
