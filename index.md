@@ -45,7 +45,7 @@ to young engineers in my community to nurture a new wave of impact-driven leader
 
 <img src="/assets/images/Headshot.jpg"
      width="220"
-     style="border-radius: 50%;">
+     <!-- style="border-radius: 50%;"> -->
 
 </td>
 
