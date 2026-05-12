@@ -71,7 +71,12 @@ Semantic Segmentation model for Martian terrain type, trained solely on unlabele
 Current Martian rovers rely on classical (geometry-based) computer vision, lacking semantic understanding of terrain type. This can cause critical mission failures, like​ the 2009 Spirit Rover embedding. Furthermore, when preparing to deploy a rover on unexplored terrain, there may not be labeled data from that environment to train on. The ability to use an accessible Earth environment to train a model to perform on novel terrain is both exciting and challenging.
 
 **Approach:**
-We use weakly supervised learning to generate pseudo-labels for the unlabeled Mars analog dataset ([Bardenas Semi-Desert, Spain](https://www.nature.com/articles/s41597-024-03881-1)). These pseudo-labels were then used to train a DeepLabV3 model for semantic segmentation of four specific terrain types on Mars. We then validate these results by testing against the [AI4Mars dataset](https://data.nasa.gov/dataset/ai4mars-a-dataset-for-terrain-aware-autonomous-driving-on-mars)
+We use weakly supervised learning to generate pseudo-labels for the unlabeled Mars analog dataset ([Bardenas Semi-Desert, Spain](https://www.nature.com/articles/s41597-024-03881-1)). These pseudo-labels were then used to train a DeepLabV3 model for semantic segmentation of four specific terrain types on Mars. We then validate these results by testing against the [AI4Mars dataset](https://data.nasa.gov/dataset/ai4mars-a-dataset-for-terrain-aware-autonomous-driving-on-mars).
+
+**Project Pipeline:**
+<p align="center">
+  <img src="/assets/images/.png" width="600">
+</p>
 
 
 **Results:**
