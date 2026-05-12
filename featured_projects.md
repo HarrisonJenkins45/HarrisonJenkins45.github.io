@@ -10,7 +10,7 @@ One-line impact
 Visual (diagram / GIF / result)--> (70km; 100m_s) 3D error.png
 
 <p align="center">
-  <img src="/assets/images/drone_sim.gif" width="600">
+  <img src="/assets/images/(70km; 100m_s) 3D error.png" width="600">
 </p>
 Problem statement
 Your approach
