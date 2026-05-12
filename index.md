@@ -1,5 +1,7 @@
 ## Harrison Jenkins
+[Home](/) | [Projects](/projects) | [Research](/research) | [About](/about)
 
+---
 ### Mission
 **Reflect the love of Christ by advancing robotic technology that will combat socio-economic disparities, chiefly: energy poverty.** Critical to this mission is a two-stage approach: 
 
