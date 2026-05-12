@@ -3,7 +3,8 @@ layout: default
 title: Harrison Jenkins
 ---
 [Home](/) | [Projects](/featured_projects) | [Research](/research) | [Mentorship](/mentorship)
----
+
+
 ## Harrison Jenkins
 
 ### Mission
