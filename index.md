@@ -7,7 +7,6 @@ description: PhD Student in Robotics and Aerospace Engineering at Georgia Tech's
 ---
 
 
-
 ### Mission
 **Reflect Christ's by advancing robotic technology to combat socio-economic disparities, chiefly: energy poverty.** Critical to this mission is a three-pronged approach:
 
@@ -29,12 +28,6 @@ description: PhD Student in Robotics and Aerospace Engineering at Georgia Tech's
 - Spacecraft-mounted robotics
 - In-space Assembly and Manufacturing (ISAM)
 - Space-Based Solar Power (SBSP)
-
-### Featured Projects
-- A Deep Semantic Segmentation Network for Mars Rover Traversibility
-- Spacecraft Position Estimation in LEO using Terrain Relative Kalman Filtering
-- Interactive Orbital Mechanics Simulator
-- 2D formation controller for fish-like bio-robots​
 
 
 ### Contact Information
