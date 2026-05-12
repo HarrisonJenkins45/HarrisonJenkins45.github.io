@@ -41,7 +41,7 @@ We achieve a 90% reduction in initial position error over the duration of the 7-
 
 
 **Technical details:**
-- Simulate true trajectory with two-body motion equations + the J2 perturbation and atmospheric drag
+- We simulate the true trajectory with two-body motion equations + the J2 perturbation and atmospheric drag (nominal trajectory intentionally excludes perturbations)
 - Leverage OpenCV and pyproj to create a physically consistent orbital flyover and generate measurement residuals
 - Use MATLAB's native Python interface to run the filtering loop in MATLAB while leveraging key Python libraries to develop residuals from the data.
 
