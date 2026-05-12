@@ -2,31 +2,53 @@
 layout: default
 title: Harrison Jenkins
 ---
+
 [Home](/) | [Projects](/featured_projects) | [Research](/research) | [Mentorship](/mentorship)
+
 ---
+
 <table>
 <tr>
-<td width="70%">
 
-## Harrison Jenkins
+<td width="70%" valign="top">
 
+<h2>Harrison Jenkins</h2>
 
-### Mission
-**Reflect the love of Christ by advancing robotic technology that will combat socio-economic disparities, chiefly: energy poverty.** Critical to this mission is a two-stage approach: 
+<h3>Mission</h3>
 
-1) Use my work in Georgia Tech's [DCSL](https://dcsl.gatech.edu/) to advance the state of the art in **large scale robotic assembly in space** to enable Space-Based solar power to provide greater energy access globally.
+<p>
+<strong>Reflect the love of Christ by advancing robotic technology that will combat socio-economic disparities, chiefly: energy poverty.</strong>
+</p>
 
-2) Provide **personal technical mentorship** to young engineers in my community to nurture a new wave of impact-driven leaders.
+<p>
+Critical to this mission is a two-stage approach:
+</p>
 
+<ol>
+<li>
+Use my work in Georgia Tech's
+<a href="https://dcsl.gatech.edu/">DCSL</a>
+to advance the state of the art in
+<strong>large scale robotic assembly in space</strong>
+to enable Space-Based solar power to provide greater energy access globally.
+</li>
+
+<li>
+Provide <strong>personal technical mentorship</strong>
+to young engineers in my community to nurture a new wave of impact-driven leaders.
+</li>
+</ol>
 
 </td>
-<td width="30%">
 
-<img src="assets/images/Headshot.jpg"
+<td width="30%" valign="top" align="center">
+
+<img src="/assets/images/Headshot.jpg"
      width="220"
      style="border-radius: 50%;">
 
 </td>
+
 </tr>
 </table>
 
