@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Projects
-description: Selection of relevant projects 
+description: Selection of relevant research projects and coursework
 ---
 [Home](/index) | [Research/Projects](/featured_projects) | [Geopolitical Strategy](/geopolitics)| [Mentorship](/mentorship)
 ---
