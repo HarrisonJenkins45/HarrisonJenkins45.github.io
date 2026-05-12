@@ -6,17 +6,7 @@ title: Harrison Jenkins
 ---
 <table>
 <tr>
-<td width="30%">
-
-<img src="assets/images/Headshot.jpg"
-     width="220"
-     style="border-radius: 50%;">
-
-</td>
-
 <td width="70%">
-
-
 
 ## Harrison Jenkins
 
@@ -28,6 +18,13 @@ title: Harrison Jenkins
 
 2) Provide **personal technical mentorship** to young engineers in my community to nurture a new wave of impact-driven leaders.
 
+
+</td>
+<td width="30%">
+
+<img src="assets/images/Headshot.jpg"
+     width="220"
+     style="border-radius: 50%;">
 
 </td>
 </tr>
