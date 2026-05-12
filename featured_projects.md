@@ -15,7 +15,7 @@ Spacecraft Position Estimation with Terrain Relative Kalman Filtering
 </h3>
 
 
-_An accurate, vision-based, Kalman Filtering framework for spacecraft position estimation in GNSS-denied orbit scenarios._
+Accurate, vision-based, Kalman Filtering framework for spacecraft position estimation in GNSS-denied orbit scenarios.
 
 <p align="center">
   <img src="/assets/images/(70km; 100m_s) 3D error.png" width="600">
