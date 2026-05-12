@@ -63,7 +63,7 @@ See the project repository's [README](https://github.com/HarrisonJenkins45/Terra
 Accurate, vision-based, Kalman Filtering framework for spacecraft position estimation in GNSS-denied orbit scenarios.
 
 <p align="center">
-  <img src="/assets/images/(70km; 100m_s) 3D error.png" width="600">
+  <img src="/assets/images/.png" width="600">
 </p>
 
 
@@ -80,13 +80,13 @@ Accurate, vision-based, Kalman Filtering framework for spacecraft position estim
   flex-wrap: wrap;
 ">
 
-<img src="/assets/images/(15km; 1m_s) x error.png"
+<img src="/assets/images/ .png"
      width="300">
 
-<img src="/assets/images/(15km; 1m_s) y error.png"
+<img src="/assets/images/.png"
      width="300">
 
-<img src="/assets/images/(15km; 1m_s) z error.png"
+<img src="/assets/images/.png"
      width="300">
 
 </div>
@@ -95,7 +95,11 @@ Accurate, vision-based, Kalman Filtering framework for spacecraft position estim
 **Technical details:**
 
 
-**Link:**
+**Acknowledgments:**
+This work was done in collaboration with Trisha Singh, Noah Fischer, Steven Baker, and Sameer Panghal. Sincere thanks to them for their hard work on this project.
+
+
+**Links:**
 See the project repository [here](https://github.gatech.edu/nfischer30/CS7641-Group-6-Proposal.git) for code and more details.
 
 
