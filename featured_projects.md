@@ -40,8 +40,13 @@ We achieve a 90% reduction in initial position error over the duration of the 7-
 </div>
 
 
-Technical details
-Links (code, paper, demo)
+**Technical details:**
+- Simulate true trajectory with two-body motion equations + the J2 perturbation and atmospheric drag
+- Leverage OpenCV and pyproj to create a physically consistent orbital flyover and generate measurement residuals
+- Use MATLAB's native Python interface to run the filtering loop in MATLAB while leveraging key Python libraries to develop residuals from the data.
+
+
+[GitHub Repository](https://github.com/HarrisonJenkins45/Terrain-Relative-Spacecraft-Position-Estimation)
 
 ## A Deep Semantic Segmentation Network for Mars Rover Traversibility
 
