@@ -8,7 +8,7 @@ description: PhD Student in Robotics and Aerospace Engineering at Georgia Tech's
 
 
 ### Mission
-**Reflect Christ's by advancing robotic technology to combat socio-economic disparities, chiefly: energy poverty.** Critical to this mission is a three-pronged approach:
+**Reflect Christ's love by advancing robotic technology to combat socio-economic disparities, chiefly: energy poverty.** Critical to this mission is a three-pronged approach:
 <img src="/assets/images/Headshot.jpg"
      width="240"
      style="
