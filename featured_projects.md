@@ -7,7 +7,8 @@ description: Selection of relevant research projects and coursework
 ---
 **Spacecraft Position Estimation in LEO using Terrain Relative Kalman Filtering**
 One-line impact
-Visual (diagram / GIF / result)
+Visual (diagram / GIF / result)--> (70km; 100m_s) 3D error.png
+
 <p align="center">
   <img src="/assets/images/drone_sim.gif" width="600">
 </p>
