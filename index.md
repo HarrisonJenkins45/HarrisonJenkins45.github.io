@@ -25,7 +25,9 @@ description: PhD Student in Robotics and Aerospace Engineering at Georgia Tech's
 
 
 ### Areas of Interest
-- Spacecraft-mounted robotics
+- Free-floating robotic manipulators
+- Contact-rich manipulation tasks
+- Graph-Based Optimization
 - In-space Assembly and Manufacturing (ISAM)
 - Space-Based Solar Power (SBSP)
 
