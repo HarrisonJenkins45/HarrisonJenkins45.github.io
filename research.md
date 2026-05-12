@@ -3,6 +3,6 @@ layout: default
 title: Research
 description: Selected research efforts.
 ---
-[Home](/index) | [Projects](/featured_projects) | [Research](/research) | [Geopolitical Strategy](/geopolitics)| [Mentorship](/mentorship)
+[Home](/index) | [Research/Projects](/featured_projects) | [Geopolitical Strategy](/geopolitics)| [Mentorship](/mentorship)
 ---
 
