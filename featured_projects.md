@@ -17,7 +17,7 @@ Accurate vision-based Kalman Filtering framework for spacecraft position estimat
 Accurate knowledge of a spacecraft's position is critical for mission success; however, there are a number of circumstances that may cause GNSS (Global Navigation Satellite System) services to be unavailable, potentially for extended periods of time. In these instances, the ability to leverage vision-based estimation can be critical to the successful execution of the spacecraft's mission.
 
 **Approach**: 
-This work uses Extended and Unscented Kalman Filters to achieve sub-kilometer position estimates for a spacecraft in LEO, based solely on visual inspection of a known lake. 
+Employ Extended and Unscented Kalman Filters with novel terrain-relative residuals to achieve sub-kilometer position estimates for a simulated spacecraft in LEO.
 
 **Results**
 Achieve a 90% reduction in position error over the course of a 7-second flyover of Lake Seneca. Ultimately, achieving sub-kilometer position error with both the EKF and UKF. We discover the UKF to be most effective across several sets of initial conditions, with a lowest error of 424 m from the true position.
@@ -43,8 +43,8 @@ Achieve a 90% reduction in position error over the course of a 7-second flyover 
 Technical details
 Links (code, paper, demo)
 
-**A Deep Semantic Segmentation Network for Mars Rover Traversibility**
+## A Deep Semantic Segmentation Network for Mars Rover Traversibility
 
-**Interactive Orbital Mechanics Simulator**
+## Interactive Orbital Mechanics Simulator
 
-**2D formation controller for fish-like bio-robots**
+## 2D formation controller for fish-like bio-robots
