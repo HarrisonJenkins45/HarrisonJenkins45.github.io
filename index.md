@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Harrison Jenkins
+description: PhD Student in Robotics and Aerospace Engineering at the Georgia Institute of Technology
 ---
 
 [Home](/) | [Projects](/featured_projects) | [Research](/research) | [Mentorship](/mentorship)
