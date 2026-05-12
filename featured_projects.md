@@ -75,7 +75,7 @@ We use weakly supervised learning to generate pseudo-labels for the unlabeled Ma
 
 **Project Pipeline:**
 <p align="center">
-  <img src="/assets/images/Final Presentation Pipeline.svg" width="600">
+  <img src="/assets/images/Final_Presentation_Pipeline.svg" width="600">
 </p>
 
 
