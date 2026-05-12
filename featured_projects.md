@@ -9,7 +9,7 @@ description: Selection of relevant research projects and coursework
 Provides an effective Kalman Filtering framework for spacecraft position estimation in GNSS-denied orbit scenarios.
 
 <p align="center">
-  <img src="/assets/images/(15km; 1m_s)EKF vs UKF 3D.png" width="600">
+  <img src="/assets/images/(70km; 100m_s) 3D error.png" width="600">
 </p>
 
 
