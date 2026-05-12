@@ -9,7 +9,7 @@ description: Selection of relevant research projects and coursework
 Provides an effective Kalman Filtering framework for spacecraft position estimation in GNSS-denied orbit scenarios.
 
 <p align="center">
-  <img src="/assets/images/(70km; 100m_s) 3D error.png" width="600">
+  <img src="/assets/images/(15km; 1m_s)EKF vs UKF 3D.png" width="600">
 </p>
 
 
@@ -22,9 +22,16 @@ This work uses Extended and Unscented Kalman Filters to achieve sub-kilometer po
 **Results**
 Achieve a 90% reduction in position error over the course of a 7-second flyover of Lake Seneca. Ultimately, achieving sub-kilometer position error with both the EKF and UKF. We discover the UKF to be most effective across several sets of initial conditions, with a lowest error of 424 m from the true position.
 <p align="center">
-  <img src="/assets/images/(70km; 100m_s) y error.png" width="600">
+  <img src="/assets/images/(15km; 1m_s) x error.png" width="600">
 </p>
 
+<p align="center">
+  <img src="/assets/images/(15km; 1m_s) z error.png" width="600">
+</p>
+
+<p align="center">
+  <img src="/assets/images/(15km; 1m_s) y error.png" width="600">
+</p>
 
 Technical details
 Links (code, paper, demo)
