@@ -23,8 +23,6 @@ This work uses Extended and Unscented Kalman Filters to achieve sub-kilometer po
 Achieve a 90% reduction in position error over the course of a 7-second flyover of Lake Seneca. Ultimately, achieving sub-kilometer position error with both the EKF and UKF. We discover the UKF to be most effective across several sets of initial conditions, with a lowest error of 424 m from the true position.
 <p align="center">
   <img src="/assets/images/(15km; 1m_s) x error.png" width="600">
-  <p>X-axis Error</p>
-
 </p>
 
 <p align="center">
