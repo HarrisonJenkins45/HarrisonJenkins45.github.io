@@ -1,13 +1,12 @@
-## About me
-Harrison Jenkins is a 
-
+## Mission
+Reflect the love of Christ by advancing robotic technology that will combat socio-economic disparities, namely: energy poverty. Critical to this mission is a two-stage approach: 
+1) Use my work in Georgia Tech's [DCSL](https://dcsl.gatech.edu/) to advance the state of the art in large scale robotic assembly in space to enable Space-Based solar power to provide greater energy access globally.
+2) Provide personal technical mentorship to young engineers in my community to nurture a new wave of impact-driven leaders.
 
 ### Areas of Interest
 - Spacecraft-mounted robotics
 - In-space Assembly and Manufacturing (ISAM)
 - Space-Based Solar Power
-- Machine Learning
-- Kalman Filtering
 
 ### Featured Project
 - A Deep Semantic Segmentation Network for Mars Rover Traversibility
