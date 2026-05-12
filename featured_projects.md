@@ -6,16 +6,28 @@ description: Selection of relevant research projects and coursework
 [Home](/index) | [Research/Projects](/featured_projects) | [Geopolitical Strategy](/geopolitics)| [Mentorship](/mentorship)
 ---
 ### Spacecraft Position Estimation in LEO using Terrain Relative Kalman Filtering
-**Impact:** Provides an effective Kalman Filtering framework for spacecraft position estimation in GNSS-denied orbit environments.
+Provides an effective Kalman Filtering framework for spacecraft position estimation in GNSS-denied orbit scenarios.
 
 <p align="center">
   <img src="/assets/images/(70km; 100m_s) 3D error.png" width="600">
 </p>
 
 
-Problem statement
-Your approach
-Results / evidence
+Problem statement:
+Accurate knowledge of a spacecraft's position is critical for mission success; however, there are a number of circumstances that may cause GNSS (Global Navigation Satellite System) services to be unavailable, potentially for extended periods of time. In these instances, the ability to leverage vision-based estimation can be a critical to the succesful execution of the spacecraft's mission.
+
+Our approach: 
+This work uses Extended and Unscented Kalman Filters to achieve sub-kilometer position estimates for a spacecraft in LEO, based solely on visual inspection of a known lake. 
+
+Results
+<p align="center">
+  <img src="/assets/images/(70km; 100m_s) y error.png" width="600">
+</p>
+
+<p align="center">
+  <img src="/assets/images/(70km; 100m_s) y cov" width="600">
+</p>
+
 Technical details
 Links (code, paper, demo)
 
