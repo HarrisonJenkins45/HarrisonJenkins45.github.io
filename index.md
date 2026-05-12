@@ -3,7 +3,7 @@ layout: default
 title: Harrison Jenkins
 ---
 
-[Projects](/projects) | [Research](/research) | [About](/about)
+[Projects](/featured_projects) | [Research](/research) | [Mentorship](/mentorship)
 
 ---
 ## Harrison Jenkins
