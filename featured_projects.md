@@ -46,7 +46,7 @@ We achieve a 90% reduction in initial position error over the duration of the 7-
 - Use MATLAB's native Python interface to run the filtering loop in MATLAB while leveraging key Python libraries to develop residuals from the data.
 
 
-[GitHub Repository](https://github.com/HarrisonJenkins45/Terrain-Relative-Spacecraft-Position-Estimation)
+[**Repository**](https://github.com/HarrisonJenkins45/Terrain-Relative-Spacecraft-Position-Estimation)
 
 ## A Deep Semantic Segmentation Network for Mars Rover Traversibility
 
