@@ -25,8 +25,8 @@ title: Harrison Jenkins
 
 Critical to this mission is a two-stage approach:
 
-1. Use my work in Georgia Tech's <a href="https://dcsl.gatech.edu/">DCSL</a> to advance the state of the art in **large scale robotic assembly in space** to enable Space-Based solar power to provide greater energy access globally.
-
+1. Use my work in Georgia Tech's  to advance the state of the art in **large scale robotic assembly in space** to enable Space-Based solar power to provide greater energy access globally.
+<a href="https://dcsl.gatech.edu/">DCSL</a>
 2. Provide **personal technical mentorship** to young engineers in my community to nurture a new wave of impact-driven leaders.
 ### Areas of Interest
 - Spacecraft-mounted robotics
