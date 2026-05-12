@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Harrison Jenkins
-description: PhD Student in Robotics and Aerospace Engineering at the Georgia Institute of Technology
+description: PhD Student in Robotics and Aerospace Engineering at Georgia Tech's  <a href="https://dcsl.gatech.edu/">DCSL</a> 
 ---
 
 [Home](/) | [Projects](/featured_projects) | [Research](/research) | [Mentorship](/mentorship)
@@ -20,15 +20,13 @@ description: PhD Student in Robotics and Aerospace Engineering at the Georgia In
 
 ### Mission
 
-**Reflect the love of Christ by advancing robotic technology that will combat socio-economic disparities, chiefly: energy poverty.**
+**Reflect the love of Christ by advancing robotic technology that will combat socio-economic disparities, chiefly: energy poverty.** Critical to this mission is a three-pronged approach:
 
-Critical to this mission is a three-pronged approach:
+1. Advance the state of the art in **large-scale robotic assembly in space** to enable Space-Based solar power (SBSP) to provide greater energy access globally.
 
-1. Use my work at Georgia Tech's <a href="https://dcsl.gatech.edu/">DCSL</a> to advance the state of the art in **large scale robotic assembly in space** to enable Space-Based solar power (SBSP) to provide greater energy access globally.
-
-2. Work with other leaders to ensure space technology like SBSP will **benefit developing nations** without creating dependency relationships.
+2. Engage with grassroots leaders to ensure space technology like SBSP **benefits developing nations**.
    
-4. Provide **personal technical mentorship** to young engineers in my community to nurture a new wave of impact-driven leaders.
+4. Provide **personal technical mentorship** to young underprivileged engineers in my community to nurture a new wave of impact-driven leaders.
 
 ### Areas of Interest
 - Spacecraft-mounted robotics
