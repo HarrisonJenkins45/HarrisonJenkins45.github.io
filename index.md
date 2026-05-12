@@ -13,8 +13,6 @@ title: Harrison Jenkins
        float: right;
        margin-left: 30px;
        margin-bottom: 20px;
-       border: 2px solid #ddd;
-       padding: 4px;
      ">
 
 ## Harrison Jenkins
