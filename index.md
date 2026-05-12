@@ -6,6 +6,11 @@ title: Harrison Jenkins
 ---
 
 ## Harrison Jenkins
+<p align="center">
+  <img src="assets/images/headshot.jpg"
+       width="250"
+       style="border-radius: 50%;">
+</p>
 
 ![Harrison Jenkins](assets/images/headshot.jpg)
 
