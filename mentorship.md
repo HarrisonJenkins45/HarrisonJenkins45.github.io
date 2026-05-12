@@ -2,4 +2,5 @@
 layout: default
 title: Mentorship
 ---
-[Home](/index) | [Projects](/featured_projects) | [Research](/research) | [Mentorship](/) 
+[Home](/index) | [Projects](/featured_projects) | [Research](/research) | [Mentorship](/mentorship)
+---
