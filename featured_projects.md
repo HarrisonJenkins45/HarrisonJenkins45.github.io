@@ -60,7 +60,7 @@ See the project repository's [README](https://github.com/HarrisonJenkins45/Terra
 
 ## A Deep Semantic Segmentation Network for Mars Rover Traversibility
 
-Accurate, vision-based, Kalman Filtering framework for spacecraft position estimation in GNSS-denied orbit scenarios.
+Semantic Segmentation model for Martian terrain type, trained solely on unlabeled Earth data.
 
 <p align="center">
   <img src="/assets/images/.png" width="600">
@@ -68,11 +68,13 @@ Accurate, vision-based, Kalman Filtering framework for spacecraft position estim
 
 
 **Problem:**
+Current Martian rovers rely on classical (geometry-based) computer vision, lacking semantic understanding of terrain type. This can cause critical mission failures, like​ the 2009 Spirit Rover embedding. Furthermore, when preparing to deploy a rover on unexplored terrain, there may not be labeled data from that environment to train on. The ability to use an accessible Earth environment to train a model to perform on novel terrain is both exciting and challenging.
 
 **Approach:**
+We use weakly supervised learning to generate pseudo-labels for the unlabeled Mars analog dataset ([Bardenas Semi-Desert, Spain](https://www.nature.com/articles/s41597-024-03881-1)). These pseudo-labels were then used to train a DeepLabV3 model for semantic segmentation of four specific terrain types on Mars. We then validate these results by testing against the [AI4Mars dataset](https://data.nasa.gov/dataset/ai4mars-a-dataset-for-terrain-aware-autonomous-driving-on-mars)
+
 
 **Results:**
-
 <div style="
   display: flex;
   justify-content: center;
