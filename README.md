@@ -1,3 +1,5 @@
+# Harrison Jenkins
+
 ## Mission
 Reflect the love of Christ by advancing robotic technology that will combat socio-economic disparities, namely: energy poverty. Critical to this mission is a two-stage approach: 
 1) Use my work in Georgia Tech's [DCSL](https://dcsl.gatech.edu/) to advance the state of the art in large scale robotic assembly in space to enable Space-Based solar power to provide greater energy access globally.
