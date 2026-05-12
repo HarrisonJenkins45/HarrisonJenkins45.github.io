@@ -20,7 +20,7 @@ Accurate knowledge of a spacecraft's position is critical for mission success; h
 Employ Extended and Unscented Kalman Filters with novel terrain-relative residuals to achieve sub-kilometer position estimates for a simulated spacecraft in LEO.
 
 **Results**
-Achieve a 90% reduction in position error over the course of a 7-second flyover of Lake Seneca. Ultimately, achieving sub-kilometer position error with both the EKF and UKF. We discover the UKF to be most effective across several sets of initial conditions, with a lowest error of 424 m from the true position.
+We achieve a 90% reduction in initial position error over the duration of the 7-second flyover of Lake Seneca. We achieve sub-kilometer estimates with both the EKF and UKF, but we ultimately discover the UKF is most effective with a lowest error of 424 m from the true position.
 <div style="
   display: flex;
   justify-content: center;
