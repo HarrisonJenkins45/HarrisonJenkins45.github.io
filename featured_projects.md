@@ -85,7 +85,7 @@ We use weakly supervised learning to generate pseudo-labels for the unlabeled Ma
   flex-wrap: wrap;
 ">
 slide 7 and 8 from final pres
-<img src="/assets/images/"
+<img src="/assets/images/MIoU.png"
      width="300">
 
 <img src="/assets/images/Other results.png"
