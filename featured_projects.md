@@ -63,6 +63,8 @@ Semantic Segmentation model for Martian terrain type, trained solely on unlabele
 
 <p align="center">
   <img src="/assets/images/CS7641_Final_tripanel.png" width="600">
+  <p>Final Segmentation output compared to ground truth lables</p>
+
 </p>
 
 **Problem:**
@@ -74,6 +76,8 @@ We use weakly supervised learning to generate pseudo-labels for the unlabeled Ma
 **Project Pipeline:**
 <p align="center">
   <img src="/assets/images/Final_Presentation_Pipeline.png" width="600">
+  <p>Overall Training and Deployment Pipeline</p>
+
 </p>
 
 
