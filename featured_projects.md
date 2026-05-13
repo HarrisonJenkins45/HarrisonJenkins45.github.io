@@ -59,13 +59,11 @@ We achieve a 90% reduction in initial position error over the duration of the 7-
 See the project repository's [README](https://github.com/HarrisonJenkins45/Terrain-Relative-Spacecraft-Position-Estimation) for setup instructions.
 
 ## A Deep Semantic Segmentation Network for Mars Rover Traversibility
-
 Semantic Segmentation model for Martian terrain type, trained solely on unlabeled Earth data.
 
 <p align="center">
   <img src="/assets/images/CS7641_Final_tripanel.png" width="600">
 </p>
-Tri-panel comparison image
 
 **Problem:**
 Current Martian rovers rely on classical (geometry-based) computer vision, lacking semantic understanding of terrain type. This can cause critical mission failures, like​ the 2009 Spirit Rover embedding. Furthermore, when preparing to deploy a rover on unexplored terrain, there may not be labeled data from that environment to train on. The ability to use an accessible Earth environment to train a model to perform on novel terrain is both exciting and challenging.
