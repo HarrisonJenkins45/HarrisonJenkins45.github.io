@@ -63,7 +63,7 @@ See the project repository's [README](https://github.com/HarrisonJenkins45/Terra
 Semantic Segmentation model for Martian terrain type, trained solely on unlabeled Earth data.
 
 <p align="center">
-  <img src="/assets/images/CS7641 Final Tri-panel.png" width="600">
+  <img src="/assets/images/CS7641 Final Tri-panel.png" width="1000">
 </p>
 Tri-panel comparison image
 
