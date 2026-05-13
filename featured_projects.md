@@ -65,7 +65,7 @@ Semantic Segmentation model for Martian terrain type, trained solely on unlabele
 
 <p align="center">
   <img src="/assets/images/CS7641_Final_tripanel.png" width="600">
-  <p>Final Segmentation output compared to ground truth lables</p>
+  <p>Figure 3: Final Segmentation output compared to ground truth lables</p>
 
 </p>
 
@@ -78,7 +78,7 @@ We use weakly supervised learning to generate pseudo-labels for the unlabeled Ma
 **Project Pipeline:**
 <p align="center">
   <img src="/assets/images/Final_Presentation_Pipeline.png" width="600">
-  <p>Figure 3: Overall Training and Deployment Pipeline</p>
+  <p>Figure 4: Overall Training and Deployment Pipeline</p>
 
 </p>
 
@@ -88,7 +88,7 @@ We use weakly supervised learning to generate pseudo-labels for the unlabeled Ma
   <img src="/assets/images/MIoU.png"
        width="300">
        
-  <p>Figure 4:Mean Area over Union for Pseudo labels compared with hand annotations</p>
+  <p>Figure 5:Mean Area over Union for Pseudo labels compared with hand annotations</p>
 </p>
 
 </p>
@@ -96,7 +96,7 @@ We use weakly supervised learning to generate pseudo-labels for the unlabeled Ma
        width="300">
 
        
-  <p>Figure 5: Pseudo Labels Compared with raw BaseProd images</p>
+  <p>Figure 6: Pseudo Labels Compared with raw BaseProd images</p>
 </p>
 
 </p>
@@ -104,7 +104,7 @@ We use weakly supervised learning to generate pseudo-labels for the unlabeled Ma
        width="300">
 
        
-  <p>Figure 6: Final Confusion Matrix after deploying on Mars (i.e., testing against AI4Mars)</p>
+  <p>Figure 7: Final Confusion Matrix after deploying on Mars (i.e., testing against AI4Mars)</p>
 </p>
 
 
