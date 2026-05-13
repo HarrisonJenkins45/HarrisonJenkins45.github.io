@@ -84,7 +84,6 @@ We use weakly supervised learning to generate pseudo-labels for the unlabeled Ma
   gap: 20px;
   flex-wrap: wrap;
 ">
-slide 7 and 8 from final pres
 <img src="/assets/images/MIoU.png"
      width="300">
 
