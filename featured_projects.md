@@ -110,7 +110,7 @@ This work was done in collaboration with Trisha Singh, Noah Fischer, Steven Bake
 **Links:**
 - [Project GitHub report](https://github.gatech.edu/nfischer30/CS7641-Group-6-Proposal/blob/main/final_report.md) for code and more details.
 
-- [Final Presentation](https://gtvault-my.sharepoint.com/:p:/r/personal/sbaker96_gatech_edu/_layouts/15/Doc.aspx?sourcedoc=%7B1BE5A474-EE33-4751-A410-228376CC1A4E%7D&file=MarsFinalPres.pptx&action=edit&mobileredirect=true) for additional graphics.
+
 
 
 
