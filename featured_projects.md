@@ -101,7 +101,8 @@ Deployment tri panel + confsion matrix
 
 **Technical details:**
 - Trained a custom multi-layer perceptron (MLP) for DINO ViT-S/14 to learn pseudo masks using just 134 hand-drawn labels.
-- Fine-tuned DeepLabV3 (ResNet-50 backbone) with 31,707 images and corresponding pseudo-labels
+- Fine-tuned DeepLabV3 (ResNet-50 backbone) with auxiliary loss on the 31,707 images and corresponding pseudo-labels
+- Weighted the classes during training to remove bias against less common terrain types
 
 **Acknowledgments:**
 This work was done in collaboration with Trisha Singh, Noah Fischer, Steven Baker, and Sameer Panghal. Sincere thanks to them for their hard work on this project.
@@ -109,8 +110,6 @@ This work was done in collaboration with Trisha Singh, Noah Fischer, Steven Bake
 
 **Links:**
 - [Project GitHub report](https://github.gatech.edu/nfischer30/CS7641-Group-6-Proposal/blob/main/final_report.md) for code and more details.
-
-
 
 
 
