@@ -84,28 +84,28 @@ We use weakly supervised learning to generate pseudo-labels for the unlabeled Ma
 
 
 **Results:**
-</p>
+
   <img src="/assets/images/MIoU.png"
        width="300">
        
   <p>Figure 5:Mean Area over Union for Pseudo labels compared with hand annotations</p>
-</p>
 
-</p>
+
+
   <img src="/assets/images/Other results.png"
        width="300">
 
        
   <p>Figure 6: Pseudo Labels Compared with raw BaseProd images</p>
-</p>
 
-</p>
+
+
   <img src="/assets/images/ai4mars_confusion_matrix.png"
        width="300">
 
        
   <p>Figure 7: Final Confusion Matrix after deploying on Mars (i.e., testing against AI4Mars)</p>
-</p>
+
 
 
 **Technical details:**
