@@ -82,26 +82,24 @@ We use weakly supervised learning to generate pseudo-labels for the unlabeled Ma
 
 
 **Results:**
-<div style="
-  display: flex;
-  justify-content: center;
-  gap: 20px;
-  flex-wrap: wrap;
-">
-<img src="/assets/images/MIoU.png"
-     width="300">
-<p>Mean Area over Union for Pseudo labels compared with hand annotations</p>
+</p>
+  <img src="/assets/images/MIoU.png"
+       width="300">
+  <p>Mean Area over Union for Pseudo labels compared with hand annotations</p>
+</p>
 
+</p>
+  <img src="/assets/images/Other results.png"
+       width="300">
+  <p>Psuedo Labels Compared with raw BaseProd images</p>
+</p>
 
-<img src="/assets/images/Other results.png"
-     width="300">
-<p>Psuedo Labels Compared with raw BaseProd images</p>
+</p>
+  <img src="/assets/images/ai4mars_confusion_matrix.png"
+       width="300">
+  <p>Final Confusion Matrix after deploying on Mars (i.e., testing against AI4Mars)</p>
+</p>
 
-<img src="/assets/images/ai4mars_confusion_matrix.png"
-     width="300">
-<p>Final Confusion Matrix after deploying on Mars (i.e., testing against AI4Mars)</p>
-
-</div>
 
 **Technical details:**
 - Trained a custom multi-layer perceptron (MLP) for DINO ViT-S/14 to learn pseudo masks using just 134 hand-drawn labels.
