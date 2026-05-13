@@ -19,6 +19,8 @@ An accurate, vision-based, Kalman Filtering framework for spacecraft position es
 
 <p align="center">
   <img src="/assets/images/(70km; 100m_s) 3D error.png" width="600">
+  <p>Figure 1: 3D Orbit trajectories for EKF, UKF, and Nominal, compared to true state.</p>
+
 </p>
 
 
@@ -45,8 +47,8 @@ We achieve a 90% reduction in initial position error over the duration of the 7-
 
 <img src="/assets/images/(15km; 1m_s) z error.png"
      width="300">
-
 </div>
+<p>Figure 2: X, Y, and Z errors for each filter compared.</p>
 
 
 **Technical details:**
