@@ -105,6 +105,7 @@ We use weakly supervised learning to generate pseudo-labels for the unlabeled Ma
 - Weighted the classes during training to remove bias against less common terrain types
 
 **Acknowledgments:**
+
 This work was done in collaboration with Trisha Singh, Noah Fischer, Steven Baker, and Sameer Panghal. Sincere thanks to them for their hard work on this project.
 
 
