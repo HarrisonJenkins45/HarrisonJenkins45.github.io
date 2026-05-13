@@ -65,7 +65,7 @@ Semantic Segmentation model for Martian terrain type, trained solely on unlabele
 <p align="center">
   <img src="/assets/images/.png" width="600">
 </p>
-
+Tri-panel comparison image
 
 **Problem:**
 Current Martian rovers rely on classical (geometry-based) computer vision, lacking semantic understanding of terrain type. This can cause critical mission failures, like​ the 2009 Spirit Rover embedding. Furthermore, when preparing to deploy a rover on unexplored terrain, there may not be labeled data from that environment to train on. The ability to use an accessible Earth environment to train a model to perform on novel terrain is both exciting and challenging.
@@ -86,7 +86,7 @@ We use weakly supervised learning to generate pseudo-labels for the unlabeled Ma
   gap: 20px;
   flex-wrap: wrap;
 ">
-
+slide 7 and 8 from final pres
 <img src="/assets/images/ .png"
      width="300">
 
@@ -97,19 +97,20 @@ We use weakly supervised learning to generate pseudo-labels for the unlabeled Ma
      width="300">
 
 </div>
-
+Deployment tri panel + confsion matrix
 
 **Technical details:**
-
+- Trained a custom multi-layer perceptron (MLP) for DINO ViT-S/14 to learn pseudo masks using just 134 hand-drawn labels.
+- Fine-tuned DeepLabV3 (ResNet-50 backbone) with 31,707 images and corresponding pseudo-labels
 
 **Acknowledgments:**
 This work was done in collaboration with Trisha Singh, Noah Fischer, Steven Baker, and Sameer Panghal. Sincere thanks to them for their hard work on this project.
 
 
 **Links:**
-See the project repository [here](https://github.gatech.edu/nfischer30/CS7641-Group-6-Proposal.git) for code and more details.
-
-
+- See the project repository [here](https://github.gatech.edu/nfischer30/CS7641-Group-6-Proposal.git) for code and more details.
+- [Final report](https://github.gatech.edu/nfischer30/CS7641-Group-6-Proposal/blob/main/final_report.md)
+- [Final Presentation](https://gtvault-my.sharepoint.com/:p:/r/personal/sbaker96_gatech_edu/_layouts/15/Doc.aspx?sourcedoc=%7B1BE5A474-EE33-4751-A410-228376CC1A4E%7D&file=MarsFinalPres.pptx&action=edit&mobileredirect=true)
 
 
 
