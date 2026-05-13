@@ -19,7 +19,7 @@ An accurate, vision-based, Kalman Filtering framework for spacecraft position es
 
 <p align="center">
   <img src="/assets/images/(70km; 100m_s) 3D error.png" width="600">
-  <strong>Figure 1</strong>: 3D Orbit trajectories for EKF, UKF, and Nominal, compared to true state.
+  <p><strong>Figure 1</strong>: 3D Orbit trajectories for EKF, UKF, and Nominal, compared to true state.</p>
 
 </p>
 
@@ -65,7 +65,7 @@ Semantic Segmentation model for Martian terrain type, trained solely on unlabele
 
 <p align="center">
   <img src="/assets/images/CS7641_Final_tripanel.png" width="600">
-  <strong>Figure 3</strong>: Final Segmentation output compared to ground truth lables
+  <p><strong>Figure 3</strong>: Final Segmentation output compared to ground truth lables</p>
 
 </p>
 
@@ -78,7 +78,7 @@ We use weakly supervised learning to generate pseudo-labels for the unlabeled Ma
 **Project Pipeline:**
 <p align="center">
   <img src="/assets/images/Final_Presentation_Pipeline.png" width="600">
-  <strong>Figure 4</strong>: Overall Training and Deployment Pipeline
+  <p><strong>Figure 4</strong>: Overall Training and Deployment Pipeline</p>
 
 </p>
 
@@ -87,14 +87,14 @@ We use weakly supervised learning to generate pseudo-labels for the unlabeled Ma
 <p align="center">
   <img src="/assets/images/MIoU.png"
        width="600">
-  <strong>Figure 5</strong>: Mean Area over Union for Pseudo labels compared with hand annotations
+  <p><strong>Figure 5</strong>: Mean Area over Union for Pseudo labels compared with hand annotations</p>
 </p>
 
   
 <p align="center">
   <img src="/assets/images/Other results.png"
        width="600">
-  <strong>Figure 6</strong>: Pseudo Labels Compared with raw BaseProd images
+  <p><strong>Figure 6</strong>: Pseudo Labels Compared with raw BaseProd images</p>
 </p>
 
 
@@ -102,7 +102,7 @@ We use weakly supervised learning to generate pseudo-labels for the unlabeled Ma
 <p align="center">
   <img src="/assets/images/ai4mars_confusion_matrix.png"
        width="600">
-  <strong>Figure 7</strong>: Final Confusion Matrix after deploying on Mars (i.e., testing against AI4Mars)
+  <p><strong>Figure 7</strong>: Final Confusion Matrix after deploying on Mars (i.e., testing against AI4Mars)</p>
 </p>
 
 **Technical details:**
