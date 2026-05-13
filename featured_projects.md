@@ -85,13 +85,13 @@ We use weakly supervised learning to generate pseudo-labels for the unlabeled Ma
   flex-wrap: wrap;
 ">
 slide 7 and 8 from final pres
+<img src="/assets/images/"
+     width="300">
+
+<img src="/assets/images/Other results.png"
+     width="300">
+
 <img src="/assets/images/ai4mars_confusion_matrix.png"
-     width="300">
-
-<img src="/assets/images/.png"
-     width="300">
-
-<img src="/assets/images/.png"
      width="300">
 
 </div>
