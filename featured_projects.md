@@ -63,7 +63,7 @@ See the project repository's [README](https://github.com/HarrisonJenkins45/Terra
 Semantic Segmentation model for Martian terrain type, trained solely on unlabeled Earth data.
 
 <p align="center">
-  <img src="/assets/images/.png" width="600">
+  <img src="/assets/images/CS7641 Final Tri-panel.png" width="600">
 </p>
 Tri-panel comparison image
 
@@ -87,7 +87,7 @@ We use weakly supervised learning to generate pseudo-labels for the unlabeled Ma
   flex-wrap: wrap;
 ">
 slide 7 and 8 from final pres
-<img src="/assets/images/ .png"
+<img src="/assets/images/ai4mars_confusion_matrix.png"
      width="300">
 
 <img src="/assets/images/.png"
@@ -97,7 +97,6 @@ slide 7 and 8 from final pres
      width="300">
 
 </div>
-Deployment tri panel + confsion matrix
 
 **Technical details:**
 - Trained a custom multi-layer perceptron (MLP) for DINO ViT-S/14 to learn pseudo masks using just 134 hand-drawn labels.
