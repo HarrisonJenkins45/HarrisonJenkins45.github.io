@@ -13,7 +13,7 @@ description: Selection of relevant research projects and coursework
 ">
 
 <h2 style="margin-top: 0;">
-  Featured Projects
+  Contents
 </h2>
 
 <ul>
