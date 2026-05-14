@@ -64,6 +64,8 @@ An accurate, vision-based, Kalman Filtering framework for spacecraft position es
 
 <p align="center">
   <img src="/assets/images/(70km; 100m_s) 3D error.png" width="600">
+  </p>
+<p align="center">
   <p><strong>Figure 1</strong>. 3D Orbit trajectories for EKF, UKF, and Nominal, compared to true state.</p>
 
 </p>
@@ -93,7 +95,8 @@ We achieve a 90% reduction in initial position error over the duration of the 7-
 <img src="/assets/images/(15km; 1m_s) z error.png"
      width="300">
 </div>
-<p><strong>Figure 2</strong>: X, Y, and Z errors for each filter compared.</p>
+
+<p align="center"><strong>Figure 2</strong>: X, Y, and Z errors for each filter compared.</p>
 
 
 **Technical details:**
@@ -113,7 +116,9 @@ Semantic Segmentation model for Martian terrain type, trained solely on unlabele
 
 <p align="center">
   <img src="/assets/images/CS7641_Final_tripanel.png" width="600">
-  <p><strong>Figure 3</strong>: Final Segmentation output compared to ground truth lables</p>
+  </p>
+<p align="center">
+  <strong>Figure 3</strong>: Final Segmentation output compared to ground truth lables</p>
 
 </p>
 
@@ -126,7 +131,8 @@ We use weakly supervised learning to generate pseudo-labels for the unlabeled Ma
 **Project Pipeline:**
 <p align="center">
   <img src="/assets/images/Final_Presentation_Pipeline.png" width="600">
-  <p><strong>Figure 4</strong>: Overall Training and Deployment Pipeline</p>
+  </p>
+<p align="center"><strong>Figure 4</strong>: Overall Training and Deployment Pipeline</p>
 
 </p>
 
