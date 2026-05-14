@@ -7,6 +7,11 @@ description: Developing actionable plans for the democratization of space resour
 ---
 
 
-<p style="font-size: 2em; font-weight: bold;">
+<p style="
+  font-size: 1.5em;
+  font-weight: 500;
+  color: #444;
+  text-align: center;
+">
   Details about this work and ways to join coming soon!
 </p>
