@@ -49,6 +49,13 @@ Our model combines STEAM education, goal-setting and reflection, professional sk
 </div>
 <p>Panelist and group discussion during mentor pairing workshop at Benjamin Mays</p>
 
+
+<p align="center">
+  <img src="/assets/images/Wash2.jpg" width="400">
+  <p>Panelists for the mentor pairing workshop at Benjamin Mays.</p>
+
+</p>
+
 **For inquiries, please contact:**
 - harrisonjenkins45@gmail.com
 - cedric.kamaleson@gatech.edu
