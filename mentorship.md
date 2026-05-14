@@ -17,7 +17,7 @@ description: While longer lead technologies mature through research, real social
 
 #### Our Mission: 
 
-Impetus to Impact (I2I) exists to **transform student curiosity into actionable pathways within STEAM by combining hands-on learning, structured mentorship, and personal development.** We design and deliver adaptable outreach experiences that not only introduce students to scientific and technical concepts, but also help them build confidence, define goals, and see themselves as active participants in STEAM fields.
+Impetus to Impact exists to **transform student curiosity into actionable pathways within STEAM by combining hands-on learning, structured mentorship, and personal development.** We design and deliver adaptable outreach experiences that not only introduce students to scientific and technical concepts, but also help them build confidence, define goals, and see themselves as active participants in STEAM fields.
 Our approach emphasizes long-term impact over one-time exposure by creating repeatable, scalable frameworks that can be tailored to diverse student communities while maintaining a consistent standard of quality and measurable outcomes.
 
 #### Why we're different than other programs
