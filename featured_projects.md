@@ -141,6 +141,19 @@ An interactive graphical orbital mechanics simulator based on 2-body Newtonian m
         allowfullscreen>
 </iframe>
 
+**Technical Details**
+- Command line arguments to change the following simulation parameters: 
+    - The number and mass of spacecraft in the simulation
+    - Spacing between spacecraft
+    -Initial orbit radius and velocity of each spacecraft
+    -Simulation time scale
+- Accompanying MATLAB script to plot spacecraft trajectories
+- Simulation log to confirm the simulation parameters
+- “WASD + Up/Down” controls for changing the camera view
+- Leveraged C++ OpenGL for graphics rendering
+- Custom classes to facilitate the addition of an arbitrary number of spacecraft
+- Implemented the Verlet Integrator method to calculate the orbital mechanics
+
 ## 2D formation controller for fish-like bio-robots
 
 
