@@ -123,7 +123,7 @@ This work was done in collaboration with Trisha Singh, Noah Fischer, Steven Bake
 
 
 ## Interactive Orbital Mechanics Simulator
-An interactive graphical orbital mechanics simulator based on 2-body Newtonian mechanics.
+An interactive graphical orbital mechanics simulator based on 2-body Newtonian mechanics. Allows the user to simulate a constellation of spacecraft orbiting Earth and intuitively understand the scale and dynamics.
 
 <div style="
   position: relative;
