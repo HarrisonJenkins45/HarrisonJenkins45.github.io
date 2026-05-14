@@ -125,6 +125,14 @@ This work was done in collaboration with Trisha Singh, Noah Fischer, Steven Bake
 ## Interactive Orbital Mechanics Simulator
 An interactive graphical orbital mechanics simulator based on 2-body Newtonian mechanics.
 
+<div style="
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+">
+
 <iframe
         src="https://www.youtube.com/embed/3Q3xwDAv9vE"
 
@@ -134,13 +142,13 @@ An interactive graphical orbital mechanics simulator based on 2-body Newtonian m
           left: 0;
           width: 100%;
           height: 100%;
-          border-radius: 12px;
         "
 
         frameborder="0"
         allowfullscreen>
 </iframe>
 
+</div>
 **Technical Details**
 - Command line arguments to change the following simulation parameters: 
     - The number and mass of spacecraft in the simulation
