@@ -47,7 +47,7 @@ Our model combines STEAM education, goal-setting and reflection, professional sk
 
 
 </div>
-<p><strong>Figure 2</strong>: X, Y, and Z errors for each filter compared.</p>
+<p>Panelist and group discussion during mentor pairing workshop at Benjamin Mays</p>
 
 **For inquiries, please contact:**
 - harrisonjenkins45@gmail.com
