@@ -23,14 +23,14 @@ Our model combines STEAM education, goal-setting and reflection, professional sk
 2026 is the debut of our organization and we focsed on establishing connections with local Atlanta Public schools, growing our membership, and starting a longitudinal workshop series. To date, we've hosted 5 workshops at 3 different Atlanta public schools: Benjamin E. Mays High School, Booker T. Washington High School, and King Elementary. 
 
 <p align="center">
-  <img src="/assets/images/Mays1.jpg" width="600">
+  <img src="/assets/images/Mays1.jpg" width="400">
   <p>Opening experiment for our initial workshop at Benjamin Mays High School</p>
 
 </p>
 
 
 <p align="center">
-  <img src="/assets/images/Wash1.jpg" width="600">
+  <img src="/assets/images/Wash1.jpg" width="450">
   <p>I2I Team introductions during the initial workshop at Booker T. Washington High school.</p>
 
 </p>
