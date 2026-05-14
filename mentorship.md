@@ -35,12 +35,19 @@ Our model combines STEAM education, goal-setting and reflection, professional sk
 
 </p>
 
-<p align="center">
-  <img src="/assets/images/Mays2.jpg" width="600">
-  <p>Panel and Mentorship pairing workshop at Benjamin Mays.</p>
 
-</p>
+<div style="
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+">
+  <img src="/assets/images/Mays2.jpg" width="300">
+  <img src="/assets/images/Mays 2.jpg" width="300">
 
+
+</div>
+<p><strong>Figure 2</strong>: X, Y, and Z errors for each filter compared.</p>
 
 **For inquiries, please contact:**
 - harrisonjenkins45@gmail.com
