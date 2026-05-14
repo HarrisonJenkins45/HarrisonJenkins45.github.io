@@ -11,12 +11,12 @@ description: While longer lead technologies mature through research, real social
   gap: 20px;
 ">
 
-<img src="/assets/images/I2I_logo.png"
-     width="120">
 
 <h2 style="margin: 0;">
   Impetus to Impact (I2I)
 </h2>
+<img src="/assets/images/I2I_logo.png"
+     width="120">
 
 </div>
 
@@ -86,12 +86,12 @@ Our model combines STEAM education, goal-setting and reflection, professional sk
   gap: 20px;
 ">
 
-<img src="/assets/images/pgsf_logo_torch_black.jpeg"
-     width="120">
-
 <h2 style="margin: 0;">
   Patti Grace Smith Fellowship (PGSF)
 </h2>
+<img src="/assets/images/pgsf_logo_torch_black.jpeg"
+     width="120">
+
 
 </div>
 
