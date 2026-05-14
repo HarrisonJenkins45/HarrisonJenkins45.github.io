@@ -182,11 +182,24 @@ An interactive graphical orbital mechanics simulator based on 2-body Newtonian m
 ## 2D formation controller for fish-like bio-robots
 Two degree of freedom PD controller for formation control of schooling hydrofoils. Provides closed-loop control to command a pitching hydrofoil to navigate to and hold formation at a target position in the wake of another hydrofoil.
 
-<p align="center">
+
+<div style="
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+">
+  <video src="/assets/images/Hydrofoil tracking.mov"
+       width="300">
+  <p>Simulation of a successful tracking scenario</p>
+
   <img src="/assets/images/hydrofoil tracking.png"
-       width="400">
+       width="300">
   <p><strong>Figure 9</strong>: Trailing hydrofoil position (in chord lengths) over time</p>
-</p>
+
+</div>
+
+
 
 **Results:**
 Enabled the study of the hydrodynamic mechanisms that govern fish schooling in various formations of choice. This tool will enable the [Unsteady Flow Interactions Laboratory](https://wordpress.lehigh.edu/kwm213/) to:
