@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Harrison Jenkins
-description: PhD Student in Robotics and Aerospace Engineering at Georgia Tech's  <strong><a href="https://dcsl.gatech.edu/">DCSL</a><strong>
+description: PhD Student in Robotics and Aerospace Engineering at Georgia Tech's  <strong><a href="https://dcsl.gatech.edu/">DCSL</a></strong>
 ---
 [Home](/index) | [Research/Projects](/featured_projects) | [Geopolitical Strategy](/geopolitics)| [Mentorship](/mentorship)
 ---
