@@ -123,6 +123,18 @@ This work was done in collaboration with Trisha Singh, Noah Fischer, Steven Bake
 
 
 ## Interactive Orbital Mechanics Simulator
+An interactive graphical orbital mechanics simulator based on 2-body Newtonian mechanics.
+<div align="center">
+
+
+<iframe width="800"
+        height="450"
+        src="https://youtu.be/3Q3xwDAv9vE"
+        title="Project Demo"
+        frameborder="0"
+        allowfullscreen>
+</iframe>
+
 
 ## 2D formation controller for fish-like bio-robots
 
