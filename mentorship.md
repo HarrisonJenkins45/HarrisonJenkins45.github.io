@@ -8,7 +8,7 @@ description: While longer lead technologies mature through research, real social
 <img src="/assets/images/I2I logo.png"
      width="150"
      style="
-       float: left;
+       float: right;
        margin-left: 30px;
        margin-bottom: 20px;
      ">
