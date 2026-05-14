@@ -196,7 +196,7 @@ Two degree of freedom PD controller for formation control of schooling hydrofoil
     </video>
 
     <p>
-      Simulation of a successful tracking scenario
+      Simulation of a closed-loop PD hydrofoil tracking
     </p>
   </div>
 
