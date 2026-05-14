@@ -64,7 +64,7 @@ An accurate, vision-based, Kalman Filtering framework for spacecraft position es
 
 <p align="center">
   <img src="/assets/images/(70km; 100m_s) 3D error.png" width="600">
-  <p><strong>Figure 1</strong>: 3D Orbit trajectories for EKF, UKF, and Nominal, compared to true state.</p>
+  <p><strong>Figure 1</strong>. 3D Orbit trajectories for EKF, UKF, and Nominal, compared to true state.</p>
 
 </p>
 
@@ -142,7 +142,10 @@ We use weakly supervised learning to generate pseudo-labels for the unlabeled Ma
 <p align="center">
   <img src="/assets/images/Other results.png"
        width="600">
-  <p><strong>Figure 6</strong>: Pseudo Labels Compared with raw BaseProd images</p>
+
+  </p>
+<p align="center">
+  <strong>Figure 6</strong>: Pseudo Labels Compared with raw BaseProd images
 </p>
 
 
@@ -150,7 +153,10 @@ We use weakly supervised learning to generate pseudo-labels for the unlabeled Ma
 <p align="center">
   <img src="/assets/images/ai4mars_confusion_matrix.png"
        width="600">
-  <p><strong>Figure 7</strong>: Final Confusion Matrix after deploying on Mars (i.e., testing against AI4Mars)</p>
+
+  </p>
+<p align="center">
+  <strong>Figure 7</strong>: Final Confusion Matrix after deploying on Mars (i.e., testing against AI4Mars)
 </p>
 
 **Technical details:**
@@ -215,7 +221,9 @@ An interactive graphical orbital mechanics simulator based on 2-body Newtonian m
 <p align="center">
   <img src="/assets/images/Trajectory_plot.png"
        width="500">
-  <p><strong>Figure 8</strong>: 3D plot of 2 spacecraft in the simulated constellation</p>
+</p>
+<p align="center">
+  <strong>Figure 8</strong>. 3D plot of 2 spacecraft in the simulated constellation
 </p>
 
 
