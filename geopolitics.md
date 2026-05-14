@@ -5,3 +5,6 @@ description: Developing actionable plans for the democratization of space resour
 ---
 [Home](/index) | [Research/Projects](/featured_projects) | [Geopolitical Strategy](/geopolitics)| [Mentorship](/mentorship)
 ---
+
+
+## Details about this work and ways to join coming soon!
