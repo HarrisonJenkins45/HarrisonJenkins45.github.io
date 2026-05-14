@@ -213,7 +213,7 @@ Two degree of freedom PD controller for formation control of schooling hydrofoil
 </div>
 
 **Results:**
-Enabled the study of the hydrodynamic mechanisms that govern fish schooling in various formations of choice. This tool will enable the [Unsteady Flow Interactions Laboratory](https://wordpress.lehigh.edu/kwm213/) to:
+Enabled the study of the hydrodynamic mechanisms that govern fish schooling in various formations of choice. This tool will enable researchers in the [Lehigh Unsteady Flow Interactions Laboratory](https://wordpress.lehigh.edu/kwm213/) to:
 - Understand the most energetically efficient relative positions for fish to school in.
 - Learn whether certain formations are physically possible to hold with realistic constraints
 - Analyze the feedback control signals and find patterns that may allow for open-loop (feedback-less) control.
