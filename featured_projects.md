@@ -172,8 +172,12 @@ An interactive graphical orbital mechanics simulator based on 2-body Newtonian m
 
 **Technical Details**
 - Leveraged C++ OpenGL for graphics rendering
-- Custom classes to facilitate the addition of an arbitrary number of spacecraft
-- Implemented the Verlet Integrator method to calculate the orbital mechanics
+- Employed custom classes to facilitate the addition of an arbitrary number of spacecraft
+- Implemented the Verlet Integrator method to propagate the orbital mechanics
+
+**Links**
+
+- [Project GitHub](https://github.com/HarrisonJenkins45/Orbital_simulation)
 
 ## 2D formation controller for fish-like bio-robots
 
