@@ -66,9 +66,14 @@ Our model combines STEAM education, goal-setting and reflection, professional sk
 [Instagram page](https://www.instagram.com/impetus2impact?igsh=M2Jia2NkeTNsNzZ6)
 
 ## Patti Grace Smith Fellowship PGSF leadership roles
-Learn more about the fellowship [here](https://www.pgsfellowship.org/)
+Learn more about this incredible fellowship program [here](https://www.pgsfellowship.org/)!
 
 #### Alumni Coordinator
+I served as the Fellowship's Alumni Coordinator for two years. During this time, I organized the fellowship's inaugural Alumni reunion as well as a series of regional meet-ups to connect the global network of PGSF alumni. 
+
+In July of 2025, we hosted over 35 previous PGSF Alumni for a 3-day reunion in Washington DC. During this time, we hosted roundtable discussions, dinners, and fun activities to encourage connection and foster community.
+
+In July and August of 2024, I worked to organize regional meet-ups in LA and Denver to allow alumni to interact and form connections with other alumni in their region.
 
 
 #### Peer Mentor Coordinator
