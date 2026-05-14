@@ -18,6 +18,13 @@ I2I is designed around **transformation, not just engagement**.
 While many organizations focus on hosting events or increasing participation, our mission is centered on **longitudinal mentorship, measurable personal and academic growth, and the integration of technical and personal development.**
 Our model combines STEAM education, goal-setting and reflection, professional skill development, and mentorship continuity- creating a more holistic experience where students not only learn concepts, but also develop direction, confidence, and actionable next steps.
 
+#### Past events
+
+2026 is the debut of our organization and we focsed on establishing connections with local Atlanta Public schools, growing our membership, and starting a longitudinal workshop series. To date, we've hosted 5 workshops at 3 different Atlanta public schools: Benjamin E. Mays High School, Booker T. Washington High School, and King Elementary. 
+
+
+
+
 
 **For inquiries, please contact:**
 - harrisonjenkins45@gmail.com
