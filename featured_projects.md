@@ -192,7 +192,7 @@ Two degree of freedom PD controller for formation control of schooling hydrofoil
 
   <div>
     <video width="300" controls>
-      <source src="/assets/Hydrofoil tracking.mp4" type="video/mp4">
+      <source src="/assets/Hydrofoil_tracking.mp4" type="video/mp4">
     </video>
 
     <p>
