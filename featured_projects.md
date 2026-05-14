@@ -125,3 +125,7 @@ This work was done in collaboration with Trisha Singh, Noah Fischer, Steven Bake
 ## Interactive Orbital Mechanics Simulator
 
 ## 2D formation controller for fish-like bio-robots
+
+
+## Other projects
+Portfolio of past projects [here](https://canva.link/muc1xo8a8w28u1h)
