@@ -11,7 +11,7 @@ description: While longer lead technologies mature through research, real social
   gap: 20px;
 ">
 
-<img src="/assets/images/I2I logo.png"
+<img src="/assets/images/I2I_logo.png"
      width="120">
 
 <h2 style="margin: 0;">
@@ -78,14 +78,23 @@ Our model combines STEAM education, goal-setting and reflection, professional sk
 **Links**:
 [Instagram page](https://www.instagram.com/impetus2impact?igsh=M2Jia2NkeTNsNzZ6)
 
+
+
+<div style="
+  display: flex;
+  align-items: center;
+  gap: 20px;
+">
+
 <img src="/assets/images/pgsf_logo_torch_black.jpeg"
-     width="100"
-     style="
-       float: right;
-       margin-left: 30px;
-       margin-bottom: 20px;
-     ">
-## Patti Grace Smith Fellowship (PGSF)
+     width="120">
+
+<h2 style="margin: 0;">
+  Patti Grace Smith Fellowship (PGSF)
+</h2>
+
+</div>
+
 Learn more about this incredible fellowship program [here](https://www.pgsfellowship.org/)!
 
 #### PGSF Alumni Coordinator
