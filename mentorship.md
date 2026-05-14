@@ -11,7 +11,7 @@ description: While longer lead technologies mature through research, real social
   gap: 20px;
 ">
 
-<img src="/assets/images/I2I_logo.png"
+<img src="/assets/images/I2I logo.png"
      width="120">
 
 <h2 style="margin: 0;">
