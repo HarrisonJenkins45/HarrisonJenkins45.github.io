@@ -153,7 +153,8 @@ An interactive graphical orbital mechanics simulator based on 2-body Newtonian m
 
 **Key features**
 - Command line arguments to change the following simulation parameters: 
-    - The number and mass of spacecraft in the simulation
+    - The number of spacecraft in the simulated constellation
+    - The mass of the spacecraft in the simulation
     - Spacing between spacecraft
     - Initial orbit radius and velocity of each spacecraft
     - Simulation time scale
