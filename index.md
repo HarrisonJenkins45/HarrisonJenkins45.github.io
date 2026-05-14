@@ -14,7 +14,7 @@ Three-pronged approach:
 <img src="/assets/images/Headshot.jpg"
      width="240"
      style="
-       float: right;
+       float: left;
        margin-left: 30px;
        margin-bottom: 20px;
      ">
