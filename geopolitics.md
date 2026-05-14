@@ -7,4 +7,6 @@ description: Developing actionable plans for the democratization of space resour
 ---
 
 
-## Details about this work and ways to join coming soon!
+<p style="font-size: 2em; font-weight: bold;">
+  Details about this work and ways to join coming soon!
+</p>
