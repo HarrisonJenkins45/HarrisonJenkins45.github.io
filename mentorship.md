@@ -5,15 +5,20 @@ description: While longer lead technologies mature through research, real social
 ---
 [Home](/index) | [Research/Projects](/featured_projects) | [Geopolitical Strategy](/geopolitics)| [Mentorship](/mentorship)
 ---
-<img src="/assets/images/I2I logo.png"
-     width="150"
-     style="
-       float: right;
-       margin-left: 30px;
-       margin-bottom: 20px;
-     ">
-## Impetus to Impact (I2I)
+<div style="
+  display: flex;
+  align-items: center;
+  gap: 20px;
+">
 
+<img src="/assets/images/I2I_logo.png"
+     width="120">
+
+<h2 style="margin: 0;">
+  Impetus to Impact (I2I)
+</h2>
+
+</div>
 
 #### Our Mission: 
 
