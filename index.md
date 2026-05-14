@@ -8,6 +8,8 @@ description: PhD Student in Robotics and Aerospace Engineering at Georgia Tech's
 
 
 ## Mission
+
+***Reflect Christ's love by advancing robotic technology to combat socio-economic disparities, chiefly: energy poverty.***
 <img src="/assets/images/Headshot.jpg"
      width="240"
      style="
@@ -16,8 +18,6 @@ description: PhD Student in Robotics and Aerospace Engineering at Georgia Tech's
        margin-bottom: 20px;
      ">
      
-***Reflect Christ's love by advancing robotic technology to combat socio-economic disparities, chiefly: energy poverty.***
-
 Three-pronged approach:
 1. Advance the state of the art in **large-scale robotic assembly in space** to enable Space-Based solar power (SBSP) to provide greater energy access globally.
 
