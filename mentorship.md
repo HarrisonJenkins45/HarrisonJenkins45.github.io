@@ -47,7 +47,7 @@ Our model combines STEAM education, goal-setting and reflection, professional sk
 
 
 </div>
-<p>Panelist and group discussion during mentor pairing workshop at Benjamin Mays</p>
+<p>Panelists and group discussion during mentor pairing workshop at Benjamin Mays</p>
 
 
 <p align="center">
