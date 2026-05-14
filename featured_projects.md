@@ -155,8 +155,8 @@ An interactive graphical orbital mechanics simulator based on 2-body Newtonian m
 - Command line arguments to change the following simulation parameters: 
     - The number and mass of spacecraft in the simulation
     - Spacing between spacecraft
-    -Initial orbit radius and velocity of each spacecraft
-    -Simulation time scale
+    - Initial orbit radius and velocity of each spacecraft
+    - Simulation time scale
 - Accompanying MATLAB script to plot spacecraft trajectories
 - Simulation log to confirm the simulation parameters
 - “WASD + Up/Down” controls for changing the camera view
