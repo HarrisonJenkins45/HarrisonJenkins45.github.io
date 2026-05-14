@@ -5,8 +5,8 @@ description: While longer lead technologies mature through research, real social
 ---
 [Home](/index) | [Research/Projects](/featured_projects) | [Geopolitical Strategy](/geopolitics)| [Mentorship](/mentorship)
 ---
-<img src="/assets/images/I2I_logo.jpg"
-     width="240"
+<img src="/assets/images/I2I logo.png"
+     width="150"
      style="
        float: right;
        margin-left: 30px;
@@ -74,7 +74,7 @@ Our model combines STEAM education, goal-setting and reflection, professional sk
 [Instagram page](https://www.instagram.com/impetus2impact?igsh=M2Jia2NkeTNsNzZ6)
 
 <img src="/assets/images/pgsf_logo_torch_black.jpeg"
-     width="240"
+     width="100"
      style="
        float: right;
        margin-left: 30px;
