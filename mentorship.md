@@ -30,7 +30,7 @@ Our model combines STEAM education, goal-setting and reflection, professional sk
 
 
 <p align="center">
-  <img src="/assets/images/Wash1.jpg" width="450">
+  <img src="/assets/images/Wash1.jpg" width="400">
   <p>I2I Team introductions during the initial workshop at Booker T. Washington High school.</p>
 
 </p>
