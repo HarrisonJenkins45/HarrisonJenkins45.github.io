@@ -164,10 +164,9 @@ An interactive graphical orbital mechanics simulator based on 2-body Newtonian m
   
 <p align="center">
   <img src="/assets/images/Trajectory_plot.png"
-       width="600">
+       width="500">
   <p><strong>Figure 8</strong>: 3D plot of 2 spacecraft in the simulated constellation</p>
 </p>
-
 
 
 **Technical Details**
