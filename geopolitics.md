@@ -13,5 +13,5 @@ description: Developing actionable plans for the democratization of space resour
   color: #444;
   text-align: center;
 ">
-  Details about this work and ways to join coming soon!
+  Details about this work and avenues to join coming soon!
 </p>
