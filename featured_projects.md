@@ -5,7 +5,52 @@ description: Selection of relevant research projects and coursework
 ---
 [Home](/index) | [Research/Projects](/featured_projects) | [Geopolitical Strategy](/geopolitics)| [Mentorship](/mentorship)
 ---
-<h2>
+<div style="
+  background-color: #f6f8fa;
+  padding: 20px;
+  border-radius: 12px;
+  margin-bottom: 40px;
+">
+
+<h2 style="margin-top: 0;">
+  Featured Projects
+</h2>
+
+<ul>
+
+<li>
+<a href="#terrain-relative-kalman-filtering">
+Spacecraft Position Estimation with Terrain Relative Kalman Filtering
+</a>
+</li>
+
+<li>
+<a href="#mars-segmentation">
+Deep Semantic Segmentation for Mars Rover Traversibility
+</a>
+</li>
+
+<li>
+<a href="#orbital-simulator">
+Interactive Orbital Mechanics Simulator
+</a>
+</li>
+
+<li>
+<a href="#hydrofoil-controller">
+2D Formation Controller for Fish-like Bio-Robots
+</a>
+</li>
+
+</ul>
+
+</div>
+
+
+
+
+
+<h2 id="terrain-relative-kalman-filtering">
 Spacecraft Position Estimation with Terrain Relative Kalman Filtering
 <span style="font-size: 0.6em; font-weight: normal;">
   <a href="/assets/pdfs/AE_6505_Final_Project_Manuscript.pdf">
@@ -60,7 +105,10 @@ We achieve a 90% reduction in initial position error over the duration of the 7-
 **Demo:**
 See the project repository's [README](https://github.com/HarrisonJenkins45/Terrain-Relative-Spacecraft-Position-Estimation) for setup instructions.
 
-## A Deep Semantic Segmentation Network for Mars Rover Traversibility
+<h2 id="mars-segmentation">
+A Deep Semantic Segmentation Network for Mars Rover Traversibility
+</h2>
+
 Semantic Segmentation model for Martian terrain type, trained solely on unlabeled Earth data.
 
 <p align="center">
@@ -120,9 +168,10 @@ This work was done in collaboration with Trisha Singh, Noah Fischer, Steven Bake
 
 
 
+<h2 id="orbital-simulator">
+Interactive Orbital Mechanics Simulator
+</h2>
 
-
-## Interactive Orbital Mechanics Simulator
 An interactive graphical orbital mechanics simulator based on 2-body Newtonian mechanics. Allows the user to simulate a constellation of spacecraft orbiting Earth and intuitively understand the scale and dynamics.
 
 <div style="
@@ -179,7 +228,11 @@ An interactive graphical orbital mechanics simulator based on 2-body Newtonian m
 
 - [Project GitHub](https://github.com/HarrisonJenkins45/Orbital_simulation)
 
-## 2D formation controller for fish-like bio-robots
+<h2 id="hydrofoil-controller">
+2D formation controller for fish-like bio-robots
+</h2>
+
+
 Two degree of freedom PD controller for formation control of schooling hydrofoils. Provides closed-loop control to command a pitching hydrofoil to navigate to and hold formation at a target position in the wake of another hydrofoil.
 
 <div style="
