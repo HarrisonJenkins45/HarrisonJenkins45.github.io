@@ -15,7 +15,7 @@ Our approach emphasizes long-term impact over one-time exposure by creating repe
 #### Why we're different than other programs
 
 I2I is designed around **transformation, not just engagement**.
-While many organizations focus on hosting events or increasing participation, our mission is centered on** longitudinal mentorship, measurable personal and academic growth, and the integration of technical and personal development.**
+While many organizations focus on hosting events or increasing participation, our mission is centered on **longitudinal mentorship, measurable personal and academic growth, and the integration of technical and personal development.**
 Our model combines STEAM education, goal-setting and reflection, professional skill development, and mentorship continuity- creating a more holistic experience where students not only learn concepts, but also develop direction, confidence, and actionable next steps.
 
 
