@@ -51,7 +51,7 @@ Our model combines STEAM education, goal-setting and reflection, professional sk
 
 
 <p align="center">
-  <img src="/assets/images/wash2.jpeg" width="400">
+  <img src="/assets/images/wash2.jpeg" width="500">
   <p>Panelists for the mentor pairing workshop at Benjamin Mays.</p>
 
 </p>
