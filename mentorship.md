@@ -63,6 +63,5 @@ Our model combines STEAM education, goal-setting and reflection, professional sk
 - awalyssaa@gmail.com
 
 **Links**:
-
-[Instagram](https://www.instagram.com/impetus2impact?igsh=M2Jia2NkeTNsNzZ6)
+[Instagram page](https://www.instagram.com/impetus2impact?igsh=M2Jia2NkeTNsNzZ6)
 
