@@ -73,6 +73,13 @@ Our model combines STEAM education, goal-setting and reflection, professional sk
 **Links**:
 [Instagram page](https://www.instagram.com/impetus2impact?igsh=M2Jia2NkeTNsNzZ6)
 
+<img src="/assets/images/pgsf_logo_torch_black.jpeg"
+     width="240"
+     style="
+       float: right;
+       margin-left: 30px;
+       margin-bottom: 20px;
+     ">
 ## Patti Grace Smith Fellowship (PGSF)
 Learn more about this incredible fellowship program [here](https://www.pgsfellowship.org/)!
 
