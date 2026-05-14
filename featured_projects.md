@@ -5,14 +5,14 @@ description: Selection of relevant research projects and coursework
 ---
 [Home](/index) | [Research/Projects](/featured_projects) | [Geopolitical Strategy](/geopolitics)| [Mentorship](/mentorship)
 ---
-<h3>
+<h2>
 Spacecraft Position Estimation with Terrain Relative Kalman Filtering
 <span style="font-size: 0.6em; font-weight: normal;">
   <a href="/assets/pdfs/AE_6505_Final_Project_Manuscript.pdf">
     [View Manuscript]
   </a>
 </span>
-</h3>
+</h2>
 
 
 An accurate, vision-based, Kalman Filtering framework for spacecraft position estimation in GNSS-denied orbit scenarios.
