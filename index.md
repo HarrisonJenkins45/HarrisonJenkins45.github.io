@@ -14,7 +14,7 @@ description: PhD Student in Robotics and Aerospace Engineering at Georgia Tech's
 <img src="/assets/images/Headshot.jpg"
      width="240"
      style="
-       float: left;
+       float: right;
        margin-left: 30px;
        margin-bottom: 20px;
      ">
