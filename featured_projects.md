@@ -149,6 +149,8 @@ An interactive graphical orbital mechanics simulator based on 2-body Newtonian m
 </iframe>
 
 </div>
+
+
 **Technical Details**
 - Command line arguments to change the following simulation parameters: 
     - The number and mass of spacecraft in the simulation
