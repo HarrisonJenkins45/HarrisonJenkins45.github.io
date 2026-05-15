@@ -13,7 +13,7 @@ description: Selection of relevant research projects and coursework
 ">
 
 <h2 style="margin-top: 0;">
-  Featured Projects
+  Directory
 </h2>
 
 <ul>
@@ -42,6 +42,12 @@ Interactive Orbital Mechanics Simulator
 </a>
 </li>
 
+
+<li>
+<a href="#other-projects">
+Other Projects
+</a>
+</li>
 </ul>
 
 </div>
@@ -287,5 +293,7 @@ Enabled the study of the hydrodynamic mechanisms that govern fish schooling in v
 - Learn whether certain formations are physically possible to hold with realistic constraints
 - Analyze the feedback control signals and find patterns that may allow for open-loop (feedback-less) control.
 
-## Other projects
+<h2 id="other-projects">
+Other Projects
+</h2>
 Portfolio of past projects [here](https://canva.link/muc1xo8a8w28u1h)
