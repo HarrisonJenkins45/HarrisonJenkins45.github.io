@@ -118,7 +118,7 @@ We achieve a 90% reduction in initial position error over the duration of the 7-
 **Demo:**
 See the project repository's [README](https://github.com/HarrisonJenkins45/Terrain-Relative-Spacecraft-Position-Estimation) for setup instructions.
 
-<h2 id="mars-segmentation">
+<!-- <h2 id="mars-segmentation">
   A Deep Semantic Segmentation Network for Mars Rover Traversibility
 </h2>
 
@@ -131,10 +131,25 @@ See the project repository's [README](https://github.com/HarrisonJenkins45/Terra
   <em>
     *T-1st for Best Machine Learning Project in Georgia Tech’s graduate Machine Learning course (Spring 2026)
   </em>
-</p>
+</p> -->
+
+
+<h2 id="mars-segmentation">
+  A Deep Semantic Segmentation Network for Mars Rover Traversibility
+
+  <span style="
+    font-size: 0.5em;
+    font-weight: normal;
+    color: #444;
+  ">
+    <em>
+      (T-1st for Best Machine Learning Project in Georgia Tech’s graduate Machine Learning course, Spring 2026)
+    </em>
+  </span>
+
+</h2>
 
 Semantic Segmentation model for <strong>Martian</strong> terrain type, trained solely on <strong>unlabeled Earth</strong> imagery.
-</p>
 
 <p align="center">
   <img src="/assets/images/Final Tri-panel.jpg" width="600">
