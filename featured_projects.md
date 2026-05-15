@@ -10,6 +10,8 @@ description: Selection of relevant research projects and coursework
   padding: 20px;
   border-radius: 12px;
   margin-bottom: 40px;
+  border: 2px solid #d0d7de;
+
 ">
 
 <h2 style="margin-top: 0;">
