@@ -29,7 +29,7 @@ description: Robotics and Aerospace Engineering PhD Student in Georgia Tech's <s
      ">
     
 <p style="
-  font-size: 1em;
+  font-size: 1.2em;
   font-weight: 500;
   line-height: 1.5;
   text-align: center;
