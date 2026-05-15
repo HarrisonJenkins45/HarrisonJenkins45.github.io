@@ -27,13 +27,14 @@ description: Robotics and Aerospace Engineering PhD Student in Georgia Tech's <s
        margin-left: 30px;
        margin-bottom: 20px;
      ">
+
+     
 <p style="
   font-size: 1.1em;
   font-weight: 600;
   text-align: center;
-  letter-spacing: 0.05em;
-  text-transform: uppercase;
-  margin-bottom: 6px;
+  text-decoration: underline;
+  margin-bottom: 5px;
 ">
   Three-pronged approach
 </p>
