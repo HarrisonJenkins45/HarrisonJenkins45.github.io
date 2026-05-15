@@ -48,7 +48,7 @@ description: Robotics and Aerospace Engineering PhD Student in Georgia Tech's <s
 </p>
 
 
-<ul>
+<ol>
 
 <li>
 <a>
@@ -56,9 +56,21 @@ Advance the state of the art in <b>large-scale robotic assembly in space</b> to 
 </a>
 </li>
 
-2. Engage with grassroots leaders to ensure space technology like SBSP **benefits developing nations**.
-   
-4. Provide **personal technical mentorship** to young underprivileged engineers in my community to nurture a new wave of impact-driven leaders.
+
+<ol>
+
+<li>
+<a>
+Engage with grassroots leaders to ensure space technology like SBSP **benefits developing nations**.
+
+<ol>
+
+<li>
+<a>
+Provide **personal technical mentorship** to young underprivileged engineers in my community to nurture a new wave of impact-driven leaders.
+</a>
+</li>
+</ol>
 
 </div>
 
