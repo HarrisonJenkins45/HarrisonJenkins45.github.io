@@ -155,7 +155,7 @@ We use weakly supervised learning to generate pseudo-labels for the unlabeled Ma
 <p align="center">
   <img src="/assets/images/MIoU.png"
        width="500">
-  <p><strong>Figure 5</strong>. Mean Area over Union for Pseudo labels compared with hand annotations</p>
+  <p><strong>Figure 5</strong>. Mean Intersection over Union for pseudo labels compared with hand annotations</p>
 </p>
 
   
