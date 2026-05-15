@@ -106,5 +106,5 @@ I served as the Fellowship's Alumni Coordinator for two years. During this time,
 
 
 #### Peer Mentor
-I have served as a "peer mentor" for every year following my own fellowship year. In this role, I have served to mentor three incredibly bright PGSF fellows during their fellowship years. 
+I have served as a "peer mentor" each year following my own fellowship year, mentoring three incredibly bright PGSF fellows during their fellowship years!
 
