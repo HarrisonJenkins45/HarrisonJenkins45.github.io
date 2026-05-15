@@ -120,7 +120,7 @@ See the project repository's [README](https://github.com/HarrisonJenkins45/Terra
 
 <h2 id="mars-segmentation">
 A Deep Semantic Segmentation Network for Mars Rover Traversibility
-  <p style="font-size: 0.6em; font-weight: normal;">
+  <p style="font-size: 0.8em; font-weight: normal;">
   T-1st for Best machine learning project in Georgia Tech’s graduate Machine Learning course (CS 7641) for Spring 2026</p>
 
 </h2>
