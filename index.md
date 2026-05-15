@@ -26,7 +26,11 @@ description: Robotics and Aerospace Engineering PhD Student in Georgia Tech's <s
   flex-wrap: wrap;
 ">
 
-
+  <img src="/assets/images/Headshot.jpg"
+       width="240"
+       style="
+         border-radius: 8px;
+       ">
 
   <div style="
     background-color: #f6f8fa;
@@ -77,11 +81,7 @@ description: Robotics and Aerospace Engineering PhD Student in Georgia Tech's <s
     </ol>
 
   </div>
-  <img src="/assets/images/Headshot.jpg"
-       width="240"
-       style="
-         border-radius: 8px;
-       ">
+
 </div>
 
 ## Areas of Interest
