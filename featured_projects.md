@@ -8,7 +8,7 @@ description: Selection of relevant research projects and coursework
 <div style="
   background-color: #f6f8fa;
   padding: 20px;
-  border-radius: 12px;
+  border-radius: 6px;
   margin-bottom: 40px;
   border: 3px solid #000000;
 
