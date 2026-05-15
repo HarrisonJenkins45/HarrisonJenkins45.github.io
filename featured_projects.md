@@ -140,7 +140,7 @@ Current Martian rovers rely on classical (geometry-based) computer vision, lacki
 **Approach:**
 We use weakly supervised learning to generate pseudo-labels for the unlabeled Mars analog dataset, [BASEPROD](https://www.nature.com/articles/s41597-024-03881-1) (located in the Bardenas Semi-Desert, Spain). These pseudo-labels were then used to train a DeepLabV3 model for semantic segmentation of four specific terrain types on Mars. We then validate these results by testing against the [AI4Mars dataset](https://data.nasa.gov/dataset/ai4mars-a-dataset-for-terrain-aware-autonomous-driving-on-mars).
 
-**Project Pipeline:**
+
 <p align="center">
   <img src="/assets/images/Final_Presentation_Pipeline.png" width="600">
   </p>
