@@ -27,7 +27,15 @@ description: PhD Student in Robotics and Aerospace Engineering at Georgia Tech's
        margin-left: 30px;
        margin-bottom: 20px;
      ">
-Three-pronged approach:
+    
+<p style="
+  font-size: 1em;
+  font-weight: 500;
+  line-height: 1.5;
+  text-align: center;
+">
+Three-pronged approach
+</p>
 1. Advance the state of the art in **large-scale robotic assembly in space** to enable Space-Based solar power (SBSP) to provide greater energy access globally.
 
 
