@@ -34,6 +34,7 @@ description: Robotics and Aerospace Engineering PhD Student in Georgia Tech's <s
   font-weight: 600;
   text-align: center;
   text-decoration: underline;
+  top-bottom: 10px;
   margin-bottom: 5px;
 ">
   Three-pronged approach
