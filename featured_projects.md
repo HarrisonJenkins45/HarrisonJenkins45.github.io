@@ -10,7 +10,7 @@ description: Selection of relevant research projects and coursework
   padding: 20px;
   border-radius: 6px;
   margin-bottom: 40px;
-  border: 3px solid #000000;
+  border: 3px solid #d0d7de;
 
 ">
 
