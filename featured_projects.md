@@ -123,7 +123,7 @@ A Deep Semantic Segmentation Network for Mars Rover Traversibility
 </h2>
 
 <p>
-Semantic Segmentation model for Martian terrain type, trained <em>solely</em> on <strong><em>unlabeled Earth</em></strong> imagery.
+Semantic Segmentation model for Martian terrain type, trained <em>solely</em> on <strong>unlabeled Earth</strong> imagery.
 </p>
 
 <p align="center">
