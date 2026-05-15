@@ -27,7 +27,14 @@ description: Robotics and Aerospace Engineering PhD Student in Georgia Tech's <s
        margin-left: 30px;
        margin-bottom: 20px;
      ">
+<div style="
+  background-color: #f6f8fa;
+  padding: 20px;
+  border-radius: 6px;
+  margin-bottom: 40px;
+  border: 3px solid #d0d7de;
 
+">
      
 <p style="
   font-size: 1.1em;
@@ -38,7 +45,8 @@ description: Robotics and Aerospace Engineering PhD Student in Georgia Tech's <s
   margin-bottom: 5px;
 ">
   Three-pronged approach
-</p>
+</div>
+
 1. Advance the state of the art in **large-scale robotic assembly in space** to enable Space-Based solar power (SBSP) to provide greater energy access globally.
 
 
@@ -46,6 +54,7 @@ description: Robotics and Aerospace Engineering PhD Student in Georgia Tech's <s
    
 4. Provide **personal technical mentorship** to young underprivileged engineers in my community to nurture a new wave of impact-driven leaders.
 
+</p>
 
 ## Areas of Interest
 - Free-floating robotic manipulators
