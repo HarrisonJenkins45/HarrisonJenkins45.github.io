@@ -129,7 +129,7 @@ See the project repository's [README](https://github.com/HarrisonJenkins45/Terra
   margin-top: -10px;
 ">
   <em>
-    (T-1st for Best Machine Learning Project in Georgia Tech’s graduate Machine Learning course for Spring 2026)
+    *(T-1st for Best Machine Learning Project in Georgia Tech’s graduate Machine Learning course for Spring 2026)
   </em>
 </p>
 
