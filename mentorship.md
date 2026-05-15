@@ -70,10 +70,10 @@ Our model combines STEAM education, goal-setting and reflection, professional sk
 </p>
 
 **For inquiries, please contact:**
-- Myself: harrisonjenkins45@gmail.com
-- Cedric Kamaleson: cedric.kamaleson@gatech.edu
-- Lucas Alonso-Munoyerro Anton: lanton3@gatech.edu
-- Alyssa Jenkins: awalyssaa@gmail.com
+- harrisonjenkins45@gmail.com
+- cedric.kamaleson@gatech.edu
+- lanton3@gatech.edu
+- awalyssaa@gmail.com
 
 **Links**:
 [Instagram page](https://www.instagram.com/impetus2impact?igsh=M2Jia2NkeTNsNzZ6)
