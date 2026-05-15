@@ -76,7 +76,7 @@ An accurate, vision-based, Kalman Filtering framework for spacecraft position es
 <p align="center">
   </p>
 <p align="center">
-  <strong>Figure 1</strong>. 3D Orbit trajectories for EKF and UKF compared to true state.
+  <strong>Figure 1</strong>. 3D Orbit trajectories for the EKF and UKF compared to true state.
 
 </p>
 
