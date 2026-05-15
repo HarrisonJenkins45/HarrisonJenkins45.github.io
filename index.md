@@ -9,7 +9,7 @@ description: PhD Student in Robotics and Aerospace Engineering at Georgia Tech's
 
 ## Mission
 <blockquote style="
-  font-size: 1.3em;
+  font-size: 1.2em;
   font-style: italic;
   border-left: 4px solid #157878;
   padding-left: 20px;
