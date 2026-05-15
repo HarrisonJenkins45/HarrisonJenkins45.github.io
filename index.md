@@ -14,6 +14,8 @@ description: PhD Student in Robotics and Aerospace Engineering at Georgia Tech's
   border-left: 4px solid #157878;
   padding-left: 20px;
   margin-left: 0;
+  text-align: center;
+
 ">
   Reflect Christ's love by advancing robotic technology to combat socio-economic disparities, chiefly: energy poverty.
 </blockquote>
