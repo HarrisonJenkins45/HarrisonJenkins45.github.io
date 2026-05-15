@@ -37,14 +37,20 @@ Our model combines STEAM education, goal-setting and reflection, professional sk
 
 <p align="center">
   <img src="/assets/images/Mays1.jpg" width="400">
-  <p>Opening experiment for our initial workshop at Benjamin Mays High School</p>
+</p>
+
+<p align="center">
+  Opening experiment for our initial workshop at Benjamin Mays High School
 
 </p>
 
 
 <p align="center">
   <img src="/assets/images/Wash1.jpg" width="400">
-  <p>I2I Team introductions during the initial workshop at Booker T. Washington High school.</p>
+  </p>
+
+<p align="center">
+  I2I Team introductions during the initial workshop at Booker T. Washington High school.
 
 </p>
 
@@ -60,12 +66,17 @@ Our model combines STEAM education, goal-setting and reflection, professional sk
 
 
 </div>
-<p>Panelists and group discussion during mentor pairing workshop at Benjamin Mays</p>
+
+
+<p align="center">Panelists and group discussion during mentor pairing workshop at Benjamin Mays</p>
 
 
 <p align="center">
   <img src="/assets/images/wash2.jpeg" width="500">
-  <p>Panelists for the mentor pairing workshop at Benjamin Mays.</p>
+  </p>
+
+<p align="center">
+  Panelists for the mentor pairing workshop at Benjamin Mays.
 
 </p>
 
