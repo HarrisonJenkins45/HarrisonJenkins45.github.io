@@ -129,7 +129,7 @@ Semantic Segmentation model for <strong>Martian</strong> terrain type, trained s
 </p>
 
 <p align="center">
-  <img src="/assets/images/CS7641_Final_tripanel.png" width="600">
+  <img src="/assets/images/Final Tri-panel.jpg" width="600">
   </p>
 <p align="center">
   <strong>Figure 3</strong>. Final Segmentation output compared with ground truth labels
