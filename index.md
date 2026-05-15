@@ -19,53 +19,68 @@ description: Robotics and Aerospace Engineering PhD Student in Georgia Tech's <s
 ">
   Reflect Christ's love by advancing robotic technology to combat socio-economic disparities, chiefly: energy poverty.
 </blockquote>
-
-<img src="/assets/images/Headshot.jpg"
-     width="240"
-     style="
-       float: right;
-       margin-left: 30px;
-       margin-bottom: 20px;
-     ">
 <div style="
-  background-color: #f6f8fa;
-  padding: 20px;
-  border-radius: 6px;
-  margin-bottom: 40px;
-  border: 3px solid #d0d7de;
-
+  display: flex;
+  align-items: flex-start;
+  gap: 30px;
+  flex-wrap: wrap;
 ">
-     
-<p style="
-  font-size: 1.1em;
-  font-weight: 600;
-  text-align: center;
-  text-decoration: underline;
-  top-bottom: 20px;
-  margin-bottom: 5px;
-">
-  Three-pronged approach
-</p>
 
+  <img src="/assets/images/Headshot.jpg"
+       width="240"
+       style="
+         border-radius: 8px;
+       ">
 
-<ol>
-<li>
-<a>
-Advance the state of the art in <b>large-scale robotic assembly in space</b> to enable Space-Based solar power (SBSP) to provide greater energy access globally.
-</a>
-</li>
+  <div style="
+    background-color: #f6f8fa;
+    padding: 20px;
+    border-radius: 6px;
+    border: 3px solid #d0d7de;
+    flex: 1;
+    min-width: 300px;
+  ">
 
+    <p style="
+      font-size: 1.1em;
+      font-weight: 600;
+      text-align: center;
+      text-decoration: underline;
+      margin-bottom: 10px;
+      margin-top: 0;
+    ">
+      Three-pronged approach
+    </p>
 
-<li>
-<a>
-Engage with grassroots leaders to ensure space technology like SBSP <b>benefits developing nations</b>.
+    <ol>
 
-<li>
-<a>
-Provide <b>personal technical mentorship</b> to young underprivileged engineers in my community to nurture a new wave of impact-driven leaders.
-</a>
-</li>
-</ol>
+      <li>
+        Advance the state of the art in
+        <strong>large-scale robotic assembly in space</strong>
+        to enable Space-Based Solar Power (SBSP)
+        to provide greater energy access globally.
+      </li>
+
+      <br>
+
+      <li>
+        Engage with grassroots leaders to ensure
+        space technology like SBSP
+        <strong>benefits developing nations</strong>.
+      </li>
+
+      <br>
+
+      <li>
+        Provide
+        <strong>personal technical mentorship</strong>
+        to young underprivileged engineers in my community
+        to nurture a new wave of impact-driven leaders.
+      </li>
+
+    </ol>
+
+  </div>
 
 </div>
 
