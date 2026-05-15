@@ -7,7 +7,7 @@ description: Robotics and Aerospace Engineering PhD Student in Georgia Tech's <s
 ---
 
 
-## Mission
+## My mission
 <blockquote style="
   font-size: 1.2em;
   font-style: italic;
