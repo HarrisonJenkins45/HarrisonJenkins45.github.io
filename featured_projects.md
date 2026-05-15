@@ -3,7 +3,7 @@ layout: default
 title: Projects
 description: Selection of relevant research projects and coursework
 ---
-[Home](/index) | [Research/Projects](/featured_projects) | [Geopolitical Strategy](/geopolitics)| [Mentorship](/mentorship)
+[Home](/index) | [Research/Projects](/featured_projects) | [Mentorship](/mentorship)| [Geopolitical Strategy](/geopolitics)
 ---
 <div style="
   background-color: #f6f8fa;
