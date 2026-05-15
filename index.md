@@ -49,7 +49,6 @@ description: Robotics and Aerospace Engineering PhD Student in Georgia Tech's <s
 
 
 <ol>
-
 <li>
 <a>
 Advance the state of the art in <b>large-scale robotic assembly in space</b> to enable Space-Based solar power (SBSP) to provide greater energy access globally.
@@ -57,17 +56,13 @@ Advance the state of the art in <b>large-scale robotic assembly in space</b> to 
 </li>
 
 
-<ol>
+<li>
+<a>
+Engage with grassroots leaders to ensure space technology like SBSP <b>benefits developing nations</b>.
 
 <li>
 <a>
-Engage with grassroots leaders to ensure space technology like SBSP **benefits developing nations**.
-
-<ol>
-
-<li>
-<a>
-Provide **personal technical mentorship** to young underprivileged engineers in my community to nurture a new wave of impact-driven leaders.
+Provide <b>personal technical mentorship</b> to young underprivileged engineers in my community to nurture a new wave of impact-driven leaders.
 </a>
 </li>
 </ol>
